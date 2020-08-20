@@ -8995,7 +8995,7 @@ msgid "Goto previous page of events"
 msgstr "Gå til forrige side af begivenheder"
 
 #: /lib/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:0 /lib/python/Screens/EpgSelection.py:0
-msgid "Goto specific /data/time"
+msgid "Goto specific data/time"
 msgstr "Gå til specifik dato/tid"
 
 #: /lib/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:0
@@ -18740,10 +18740,10 @@ msgstr "Brugergrænsefladen på din %s %s genstartes."
 #, python-format
 msgid ""
 "The user interface of your %s %s is restarting\n"
-"due to an error in /mytest.py"
+"due to an error in mytest.py"
 msgstr ""
 "Brugergrænsefladen på din %s %s genstartes\n"
-"pga. en fejl i /mytest.py"
+"pga. en fejl i mytest.py"
 
 #: /lib/python/Screens/NetworkSetup.py:0
 msgid ""

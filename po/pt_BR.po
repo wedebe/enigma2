@@ -22532,7 +22532,7 @@ msgid ""
 "due to an error in mytest.py"
 msgstr ""
 "A interface visual do seu aparelho está reiniciando\n"
-"devido a um erro em /mytest.py"
+"devido a um erro em mytest.py"
 
 #: /data/setup.xml:0
 msgid "The width of the picture. The input will be scaled to match this value."

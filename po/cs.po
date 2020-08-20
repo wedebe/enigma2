@@ -10489,7 +10489,7 @@ msgid "Goto previous page of events"
 msgstr "Přejít na předchozí stránku pořadu"
 
 #: /lib/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:0 /lib/python/Screens/EpgSelection.py:0
-msgid "Goto specific /data/time"
+msgid "Goto specific data/time"
 msgstr "Přejít na zadané datum/čas"
 
 #: /lib/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:0
@@ -22587,10 +22587,10 @@ msgstr "Váš %s %s restartuje uživatelské rozhraní (GUI)."
 #, python-format
 msgid ""
 "The user interface of your %s %s is restarting\n"
-"due to an error in /mytest.py"
+"due to an error in mytest.py"
 msgstr ""
 "Uživatelské rozhraní Vašeho %s %s se restartuje\n"
-"kvůli chybě v /mytest.py"
+"kvůli chybě v mytest.py"
 
 #: /data/setup.xml:0
 msgid "The width of the picture. The input will be scaled to match this value."
@@ -34616,10 +34616,10 @@ msgstr ""
 
 #~ msgid ""
 #~ "The user interface of your receiver is restarting\n"
-#~ "due to an error in /mytest.py"
+#~ "due to an error in mytest.py"
 #~ msgstr ""
 #~ "Uživatelské rozhraní bylo restartováno\n"
-#~ "kvůli chybě v /mytest.py"
+#~ "kvůli chybě v mytest.py"
 
 #~ msgid "There is a valid USB-flash drive detected in one "
 #~ msgstr "Byl detekován funkční USB-disk v jednom z "

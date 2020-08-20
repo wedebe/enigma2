@@ -10044,7 +10044,7 @@ msgid "Goto previous page of events"
 msgstr "Μετάβαση στην προηγούμενη σελίδα συμβάντων"
 
 #: /lib/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:0 /lib/python/Screens/EpgSelection.py:0
-msgid "Goto specific /data/time"
+msgid "Goto specific data/time"
 msgstr "Μετάβαση σε συγκεκριμένα δεδομένα/ημερομηνία"
 
 #: /lib/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:0
@@ -21646,10 +21646,10 @@ msgstr "Γίνεται επανεκκίνηση της διεπαφής χρήσ
 #, python-format
 msgid ""
 "The user interface of your %s %s is restarting\n"
-"due to an error in /mytest.py"
+"due to an error in mytest.py"
 msgstr ""
 "Γίνεται επανεκκίνηση της διεπαφής χρήστη του %s %s σας\n"
-"εξαιτίας σφάλματος στο /mytest.py"
+"εξαιτίας σφάλματος στο mytest.py"
 
 #: /data/setup.xml:0
 msgid "The width of the picture. The input will be scaled to match this value."

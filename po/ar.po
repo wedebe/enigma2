@@ -10214,7 +10214,7 @@ msgid "Goto previous page of events"
 msgstr ""
 
 #: /lib/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:0 /lib/python/Screens/EpgSelection.py:0
-msgid "Goto specific /data/time"
+msgid "Goto specific data/time"
 msgstr ""
 
 #: /lib/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:0

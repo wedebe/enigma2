@@ -10185,7 +10185,7 @@ msgid "Goto previous page of events"
 msgstr "Liigu eelmisele saatekava lehele"
 
 #: /lib/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:0 /lib/python/Screens/EpgSelection.py:0
-msgid "Goto specific /data/time"
+msgid "Goto specific data/time"
 msgstr "Mine kindlale kellaajale/kuupäevale"
 
 #: /lib/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:0
@@ -21955,7 +21955,7 @@ msgstr "%s %s kasutajaliides taaskäivitub"
 #, python-format
 msgid ""
 "The user interface of your %s %s is restarting\n"
-"due to an error in /mytest.py"
+"due to an error in mytest.py"
 msgstr ""
 "%s %s kasutajaliides taaskäivitub\n"
 "vea tõttu 'mytest.py' failis"

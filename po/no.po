@@ -22179,7 +22179,7 @@ msgid ""
 "due to an error in mytest.py"
 msgstr ""
 "Brukergrensesnitt på din %s %s starter om igjen\n"
-"grunnet en feil i /mytest.py"
+"grunnet en feil i mytest.py"
 
 #: /data/setup.xml:0
 msgid "The width of the picture. The input will be scaled to match this value."

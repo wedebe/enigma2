@@ -18356,7 +18356,7 @@ msgid ""
 "due to an error in mytest.py"
 msgstr ""
 "Používateľské rozhranie %s %s sa reštartuje\n"
-"kvôli chybe v súbore /mytest.py"
+"kvôli chybe v súbore mytest.py"
 
 #: /lib/python/Screens/NetworkSetup.py:0
 msgid ""

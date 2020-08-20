@@ -22232,7 +22232,7 @@ msgid ""
 "due to an error in mytest.py"
 msgstr ""
 "Интерфейс вашего %s %s будет перезагружен\n"
-"по причине ошибки в /mytest.py"
+"по причине ошибки в mytest.py"
 
 #: /data/setup.xml:0
 msgid "The width of the picture. The input will be scaled to match this value."

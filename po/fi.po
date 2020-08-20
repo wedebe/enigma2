@@ -22234,7 +22234,7 @@ msgid ""
 "due to an error in mytest.py"
 msgstr ""
 "%s %s:n käyttöliittymä käynnistyy uudelleen\n"
-"johtuen virheestä /mytest.py-tiedostossa"
+"johtuen virheestä mytest.py-tiedostossa"
 
 #: /data/setup.xml:0
 msgid "The width of the picture. The input will be scaled to match this value."
