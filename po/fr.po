@@ -11582,7 +11582,7 @@ msgstr "Ouvrir la liste des favoris"
 
 # TODO
 msgid "Open long"
-msgstr ""
+msgstr "Ouvert long"
 
 msgid "Open satellites list"
 msgstr "Ouvrir la liste des satellites"
@@ -11637,14 +11637,12 @@ msgstr "Etat de la LED d'alimentation en veille profonde/veille."
 msgid "Operating LED status while running"
 msgstr ""
 
-#, fuzzy
-msgid "Option"
-msgstr "Cryptage"
+msgid "Option button"
+msgstr "Option"
 
 # TODO
-#, fuzzy
 msgid "Option long"
-msgstr "Open long"
+msgstr "Option long"
 
 msgid "Option to disable picons on the Infobar"
 msgstr "Option pour désactiver les picons dans l'infobarre"
@@ -13003,12 +13001,12 @@ msgstr ""
 msgid "Protocol"
 msgstr "Protocole"
 
-msgid "Prov"
+msgid "Prov button"
 msgstr "Opérateur"
 
 # TODO
-msgid "Prov long"
-msgstr ""
+msgid "Prov button hold"
+msgstr "Opérateur long"
 
 msgid "Provider"
 msgstr "Opérateur"

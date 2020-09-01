@@ -7340,13 +7340,13 @@ msgstr "Швидкий період"
 msgid "Fast forward speeds"
 msgstr "Швидкість перемотування вперед"
 
-msgid "Fastforward"
+msgid "▶︎▶︎ Fast Forward button"
 msgstr "Перемотка вперед"
 
-msgid "Favorites"
+msgid "Favourites button"
 msgstr "Фаворити"
 
-msgid "Favorites long"
+msgid "Favourites button hold"
 msgstr "Fav довге натискання"
 
 msgid "Favourites"
@@ -8217,16 +8217,19 @@ msgstr "Історичний"
 msgid "History"
 msgstr "Історiя"
 
-msgid "History back"
+msgid "History button"
+msgstr "Історiя"
+
+msgid "History Back button"
 msgstr "Назад в історії"
 
 msgid "History buttons mode"
 msgstr "Режим кнопок <>"
 
-msgid "History long"
+msgid "History button hold"
 msgstr "Історія довге натискання"
 
-msgid "History next"
+msgid "History Next button"
 msgstr "Вперед в історії"
 
 # normalised
@@ -11295,9 +11298,6 @@ msgstr "ПІДи"
 
 msgid "PIN code needed"
 msgstr "Необхідний Пін-код"
-
-msgid "PiP"
-msgstr "ПіП"
 
 msgid "PiP button"
 msgstr "ПіП"

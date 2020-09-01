@@ -7071,18 +7071,14 @@ msgstr ""
 msgid "Fast forward speeds"
 msgstr ""
 
-msgid "Fastforward"
+msgid "▶︎▶︎ Fast Forward button"
 msgstr ""
 
-msgid "Favorites"
+msgid "Favourites button"
 msgstr "Favourites button"
 
-msgid "Favorites long"
-msgstr "Favourites hold"
-
-# TRANSLATORS: override en_US (en.po)
-msgid "Favourites"
-msgstr ""
+msgid "Favourites button hold"
+msgstr "Favourites button hold"
 
 msgid "Feeds status:   Stable"
 msgstr ""
@@ -7942,16 +7938,19 @@ msgstr ""
 msgid "History"
 msgstr ""
 
-msgid "History back"
+msgid "History button"
+msgstr ""
+
+msgid "History Back button"
 msgstr ""
 
 msgid "History buttons mode"
 msgstr ""
 
-msgid "History long"
+msgid "History button hold"
 msgstr ""
 
-msgid "History next"
+msgid "History Next button"
 msgstr ""
 
 msgid "History zap..."
