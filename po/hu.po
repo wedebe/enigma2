@@ -3488,13 +3488,10 @@ msgstr "Eszköz letiltása"
 msgid "Block noise reduction"
 msgstr "Blokk-zaj csökkentés"
 
-msgid "Blue"
-msgstr "Kék"
-
 msgid "Blue button"
 msgstr "Kék gomb"
 
-msgid "Blue long"
+msgid "Blue button hold"
 msgstr "Kék hosszan"
 
 msgid "BlueSwitch: Blue-Short/Blue-Long"
@@ -7949,13 +7946,10 @@ msgstr "Görögország"
 msgid "Greek"
 msgstr "Görög"
 
-msgid "Green"
-msgstr "Zöld"
-
 msgid "Green button"
 msgstr "Zöld gomb"
 
-msgid "Green long"
+msgid "Green button hold"
 msgstr "Zöld hosszan"
 
 msgid "Greenland"
@@ -8207,16 +8201,19 @@ msgstr "Történelmi"
 msgid "History"
 msgstr "Előzmények"
 
-msgid "History back"
+msgid "History button"
+msgstr "Előzmények"
+
+msgid "History Back button"
 msgstr "Előzmények előző"
 
 msgid "History buttons mode"
 msgstr "Előzmények gomb mód"
 
-msgid "History long"
+msgid "History button hold"
 msgstr "Előzmények hosszan"
 
-msgid "History next"
+msgid "History Next button"
 msgstr "Előzmények következő"
 
 msgid "History zap..."
@@ -12112,7 +12109,7 @@ msgstr "Forgatómotor beállítás napló"
 msgid "Positioner setup"
 msgstr "Forgatómotor beállítás"
 
-msgid "Power"
+msgid "Power button"
 msgstr "Bekapcsoló"
 
 msgid "Power LED State in Deep-Standby"
@@ -12133,7 +12130,7 @@ msgstr "A Power LED állapota a készülék Készenléti állapotában."
 msgid "Power On Display"
 msgstr "LCD kijelző legyen bekapcsolva"
 
-msgid "Power long"
+msgid "Power button hold"
 msgstr "Bekapcsoló hosszan"
 
 msgid "Power management. Consult your receiver's manual for more information."
@@ -12811,9 +12808,6 @@ msgstr "Recovery mód"
 msgid "Red button"
 msgstr "Piros gomb"
 
-msgid "Red button"
-msgstr "Piros gomb"
-
 msgid "Red button..."
 msgstr "Piros gomb..."
 
@@ -13240,7 +13234,7 @@ msgstr "Jobb oldali fájlrendezés megfordítása"
 msgid "Revue"
 msgstr ""
 
-msgid "Rewind"
+msgid "◀︎◀︎ Rewind button"
 msgstr "Visszatekerés"
 
 msgid "Rewind speeds"
@@ -13252,10 +13246,13 @@ msgstr "Feliratok újratördelése"
 msgid "Right"
 msgstr "Jobb"
 
+msgid "Right ▶︎ button"
+msgstr "Jobb"
+
 msgid "Right from servicename"
 msgstr "A csatornanév jobb oldalán"
 
-msgid "Right long"
+msgid "Right ▶︎ button hold"
 msgstr "Jobb hosszan"
 
 msgid "Roll-off"
@@ -15474,13 +15471,13 @@ msgstr "Kinézetek"
 msgid "Skinselector"
 msgstr "Kinézet választó"
 
-msgid "Skip back"
+msgid "Skip Backward button"
 msgstr "Vissza kihagyása"
 
 msgid "Skip empty services"
 msgstr "Üres csatornák átugrása"
 
-msgid "Skip forward"
+msgid "Skip Forward button"
 msgstr "Előre kihagyása"
 
 msgid "Skip internet connection check (disables automatic package installation)"
@@ -16087,7 +16084,7 @@ msgstr "Alszolgáltatási mód (zöld gomb)"
 msgid "Subservices"
 msgstr "Alcsatornák"
 
-msgid "Subtitle"
+msgid "Subtitle button"
 msgstr "Felirat"
 
 msgid "Subtitle Quickmenu"
@@ -16123,7 +16120,7 @@ msgstr "Harmadlagos előnyben részesített felirat"
 msgid "Subtitle language selection 4"
 msgstr "Negyedleges előnyben részesített felirat"
 
-msgid "Subtitle long"
+msgid "Subtitle button hold"
 msgstr "Felirat hosszan"
 
 msgid "Subtitle position"
@@ -19326,16 +19323,13 @@ msgstr ""
 msgid "Year"
 msgstr "Év"
 
-msgid "Yellow"
-msgstr "Sárga"
-
 msgid "Yellow DVB subtitles"
 msgstr "DVB feliratok színe: sárga"
 
 msgid "Yellow button"
 msgstr "Sárga gomb"
 
-msgid "Yellow long"
+msgid "Yellow button hold"
 msgstr "Sárga hosszan"
 
 msgid "Yemen"
