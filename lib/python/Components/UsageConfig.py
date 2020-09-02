@@ -168,7 +168,16 @@ def InitUsageConfig():
 	config.usage.show_second_infobar.addNotifier(showsecondinfobarChanged, immediate_feedback = True)
 	config.usage.infobar_frontend_source = ConfigSelection(default = "tuner", choices = [("settings", _("Settings")), ("tuner", _("Tuner"))])
 	
-	config.usage.show_picon_bkgrn = ConfigSelection(default = "transparent", choices = [("none", pgettext("colour|label", "disabled")), ("transparent", pgettext("colour|label", "transparent")), ("blue", pgettext("colour|label", "blue")), ("red", pgettext("colour|label", "red")), ("black", pgettext("colour|label", "black")), ("white", pgettext("colour|label", "white")), ("lightgrey", pgettext("colour|label", "light grey")), ("grey", pgettext("colour|label", "grey"))])
+	config.usage.show_picon_bkgrn = ConfigSelection(default = "transparent", choices = [
+		("none", pgettext("colour|label", "disabled")),
+		("transparent", pgettext("colour|label", "transparent")),
+		("blue", pgettext("colour|label", "blue")),
+		("red", pgettext("colour|label", "red")),
+		("black", pgettext("colour|label", "black")),
+		("white", pgettext("colour|label", "white")),
+		("lightgrey", pgettext("colour|label", "light grey")),
+		("grey", pgettext("colour|label", "grey")),
+	])
 	config.usage.show_genre_info = ConfigYesNo(default=True)
 	config.usage.show_spinner = ConfigYesNo(default = True)
 	config.usage.enable_tt_caching = ConfigYesNo(default = True)
@@ -1031,7 +1040,7 @@ def InitUsageConfig():
 	config.network = ConfigSubsection()
 	if SystemInfo["WakeOnLAN"]:
 		def wakeOnLANChanged(configElement):
-			if getBoxType() in ('multibox','plus','hd61','hd60','h9twin','h9combo','h10','h9','et7000', 'et7100', 'et7500', 'gbx1', 'gbx2', 'gbx3', 'gbx3h', 'et10000', 'gbquadplus', 'gbquad', 'gb800ueplus', 'gb800seplus', 'gbultraue', 'gbultraueh', 'gbultrase', 'gbipbox', 'quadbox2400', 'mutant2400', 'et7x00', 'et8500', 'et8500s'):
+			if getBoxType() in ('multibox','plus','hd61','hd60','h9twin','h9combo','h10','h9','et7000', 'et7100', 'et7500', 'gbx1', 'gbx2', 'gbx3', 'gbx3h', 'et10000', 'gbquadplus', 'gbquad', 'gb800ueplus', 'gb800seplus', 'gbultraue', 'gbultraueh', 'gbultrase', 'gbipbox', 'quadbox2400', 'mutant2400', 'et7x00', 'et8500', 'et8500s','hzero','h8'):
 				open(SystemInfo["WakeOnLAN"], "w").write(configElement.value and "on" or "off")
 			else:
 				open(SystemInfo["WakeOnLAN"], "w").write(configElement.value and "enable" or "disable")
