@@ -91,7 +91,6 @@ msgstr ""
 "\n"
 "Editar la ubicación de la actualización."
 
-# /SoftwareManager/Flash_online.py
 #, python-format
 msgid ""
 "\n"
@@ -2194,7 +2193,6 @@ msgstr ""
 msgid "A crashlog was %s created in '%s'"
 msgstr ""
 
-# /usr/lib/enigma2/python/PowerTimer.py
 #, python-format
 msgid ""
 "A finished powertimer wants to reboot your %s %s.\n"
@@ -2203,7 +2201,6 @@ msgstr ""
 "Un temporizador de alimentación quiere reiniciar tu %s %s.\n"
 "¿Reiniciar ahora?"
 
-# /usr/lib/enigma2/python/PowerTimer.py
 msgid ""
 "A finished powertimer wants to restart the user interface.\n"
 "Do that now?"
@@ -2211,7 +2208,6 @@ msgstr ""
 "Un temporizador de alimentación quiere reiniciar la interfaz de usuario.\n"
 "¿Hacerlo ahora?"
 
-# /usr/lib/enigma2/python/PowerTimer.py
 #, python-format
 msgid ""
 "A finished powertimer wants to set your\n"
@@ -2220,7 +2216,6 @@ msgstr ""
 "Un temporizador de alimentación quiere poner tu \n"
 "%s %s en modo espera. ¿Hacerlo ahora?"
 
-# /usr/lib/enigma2/python/PowerTimer.py
 #, python-format
 msgid ""
 "A finished powertimer wants to shutdown your %s %s.\n"
@@ -3105,7 +3100,7 @@ msgid "Ask user (with default as 'yes')"
 msgstr "Preguntar al usuario (con ‘sí’ como predeterminado)"
 
 #, fuzzy
-msgid "Aspect button"
+msgid "Aspect"
 msgstr "Aspecto"
 
 msgid "Aspect Ratio"
@@ -3115,7 +3110,7 @@ msgid "Aspect list..."
 msgstr "Lista de aspectos…"
 
 #, fuzzy
-msgid "Aspect button hold"
+msgid "Aspect long"
 msgstr "Abrir largo"
 
 msgid "Aspect ratio"
@@ -3147,9 +3142,6 @@ msgid "Attach a file"
 msgstr "Adjuntar archivo"
 
 msgid "Audio"
-msgstr ""
-
-msgid "Audio button"
 msgstr ""
 
 # A/V Settings
@@ -3188,7 +3180,7 @@ msgid "Audio language selection 4"
 msgstr "Selección de idioma de audio 4"
 
 #, fuzzy
-msgid "Audio button hold"
+msgid "Audio long"
 msgstr "Longitud de radio"
 
 msgid "Audio options..."
@@ -3443,11 +3435,8 @@ msgstr "Herramienta de copias de seguridad para %s\n"
 msgid "Back-up Tool for an %s\n"
 msgstr "Herramienta de copias de seguridad para %s\n"
 
-msgid "Back/Recall button"
+msgid "Back/Recall"
 msgstr "Volver/Recuperar"
-
-msgid "Back/Recall button hold"
-msgstr "Volver/Recuperar largo"
 
 msgid "Background"
 msgstr "Fondo"
@@ -3672,6 +3661,9 @@ msgstr "Bitrate:"
 msgid "Bitrate:"
 msgstr ""
 
+msgid "Black"
+msgstr "Negro"
+
 msgid "Black screen"
 msgstr "Pantalla negra"
 
@@ -3692,10 +3684,14 @@ msgstr "Sin servicio"
 msgid "Block noise reduction"
 msgstr "Reducción de bloque de ruido"
 
-msgid "Blue button"
+msgid "Blue"
 msgstr "Azul"
 
-msgid "Blue button hold"
+#, fuzzy
+msgid "Blue button"
+msgstr "Tecla"
+
+msgid "Blue long"
 msgstr "Azul largo"
 
 msgid "BlueSwitch: Blue-Short/Blue-Long"
@@ -4326,7 +4322,7 @@ msgstr "Bajar canal"
 msgid "Channel buttons invert"
 msgstr "Modo de tecla de canal +/-"
 
-msgid "Channel Down button"
+msgid "Channel down"
 msgstr "Bajar canal"
 
 msgid "Channel list context menu"
@@ -4370,7 +4366,7 @@ msgstr "Configuración de los canales"
 msgid "Channel selection settings"
 msgstr "Ajustes de lista de canales"
 
-msgid "Channel Up button"
+msgid "Channel up"
 msgstr "Subir canal"
 
 msgid "Channel zap delay another button"
@@ -4669,7 +4665,6 @@ msgstr "Clonar pantalla de TV al LCD"
 msgid "Close"
 msgstr "Cerrar"
 
-# /data/setup.xml
 msgid "Close PiP on exit"
 msgstr "Cerrar PiP al salir"
 
@@ -5233,10 +5228,10 @@ msgstr "Contenido"
 msgid "Content does not fit on DVD!"
 msgstr "¡El contenido no cabe en un DVD!"
 
-msgid "Context button"
+msgid "Context"
 msgstr "Contexto"
 
-msgid "Context button hold"
+msgid "Context long"
 msgstr "Contexto largo"
 
 msgid "Continue"
@@ -6250,9 +6245,6 @@ msgstr "Reproduce los títulos enlazados sin menú"
 msgid "Directory"
 msgstr "Directorio"
 
-msgid "Directory button"
-msgstr "Directorio"
-
 #, python-format
 msgid "Directory %s does not exist."
 msgstr "No existe el directorio %s."
@@ -6260,7 +6252,7 @@ msgstr "No existe el directorio %s."
 msgid "Directory browser"
 msgstr "Examinar directorios"
 
-msgid "Directory button hold"
+msgid "Directory long"
 msgstr "Directorio extenso"
 
 msgid "Disable"
@@ -6622,7 +6614,7 @@ msgid_plural "Done - Installed, upgraded or removed %d packages (%s)"
 msgstr[0] "Hecho - Instalado, actualizado o eliminado %d paquete (%s)"
 msgstr[1] "Hecho - Instalados, actualizados o eliminados %d paquetes (%s)"
 
-msgid "▼ Down button"
+msgid "Down"
 msgstr "Abajo"
 
 msgid "Download"
@@ -6732,11 +6724,11 @@ msgstr "Hora ECM"
 msgid "EDID decode"
 msgstr ""
 
-msgid "Eject button"
+msgid "EJECTCD"
 msgstr ""
 
 #, fuzzy
-msgid "Eject button hold"
+msgid "EJECTCD long"
 msgstr "SAT largo"
 
 msgid "EPG"
@@ -7097,11 +7089,11 @@ msgstr "Tipo de clave de Encriptación"
 msgid "Encryption:"
 msgstr "Encriptación:"
 
-msgid "End button"
+msgid "End"
 msgstr "Final"
 
 #, fuzzy
-msgid "End button hold"
+msgid "End long"
 msgstr "Rojo largo"
 
 msgid "End time"
@@ -7197,10 +7189,10 @@ msgstr "Ir al menú principal..."
 msgid "Entitlements"
 msgstr "Derechos"
 
-msgid "EPG/Guide button"
+msgid "Epg/Guide"
 msgstr "EPG/Guía"
 
-msgid "EPG/Guide button hold"
+msgid "Epg/Guide long"
 msgstr "EPG/Guía extensa"
 
 msgid "Epos"
@@ -7603,33 +7595,33 @@ msgstr "deportes de equipo"
 msgid "Extrude from left"
 msgstr "Extruir desde la izquierda"
 
-msgid "F1 button"
+msgid "F1"
 msgstr ""
 
 #, fuzzy
-msgid "F1 button hold"
+msgid "F1 long"
 msgstr "F2 largo"
 
 #, fuzzy
 msgid "F1/F3/F4/F4-TURBO/TRIPLEX"
 msgstr "F1/F3/TRIPLEX"
 
-msgid "F2 button"
+msgid "F2"
 msgstr ""
 
-msgid "F2 button hold"
+msgid "F2 long"
 msgstr "F2 largo"
 
-msgid "F3 button"
+msgid "F3"
 msgstr ""
 
-msgid "F3 button hold"
+msgid "F3 long"
 msgstr "F3 largo"
 
-msgid "F4 button"
+msgid "F4"
 msgstr ""
 
-msgid "F4 button hold"
+msgid "F4 long"
 msgstr "F4 largo"
 
 msgid "FCC 1953"
@@ -7721,13 +7713,13 @@ msgstr "Época rápida"
 msgid "Fast forward speeds"
 msgstr "Velocidades de avance rápido"
 
-msgid "▶︎▶︎ Fast Forward button"
+msgid "Fastforward"
 msgstr "Avance rápido"
 
-msgid "Favourites button"
+msgid "Favorites"
 msgstr "Favoritos"
 
-msgid "Favourites button hold"
+msgid "Favorites long"
 msgstr "Favoritos duraderos"
 
 msgid "Favourites"
@@ -7752,7 +7744,7 @@ msgstr ""
 msgid "Fiji"
 msgstr ""
 
-msgid "File button"
+msgid "File"
 msgstr "Archivo"
 
 #, fuzzy
@@ -7809,7 +7801,7 @@ msgstr ""
 msgid "File checksums/hashes"
 msgstr ""
 
-msgid "File button hold"
+msgid "File long"
 msgstr "Archivo extenso"
 
 #, fuzzy, python-format
@@ -7920,7 +7912,6 @@ msgstr ""
 msgid "Flash Image"
 msgstr "Flasheando: "
 
-# /SoftwareManager/plugin.py
 msgid "Flash On the Fly"
 msgstr "Flashear Over The Air"
 
@@ -8385,10 +8376,14 @@ msgstr "Griego"
 msgid "Greek"
 msgstr "Griego"
 
-msgid "Green button"
+msgid "Green"
 msgstr "Verde"
 
-msgid "Green button hold"
+#, fuzzy
+msgid "Green button"
+msgstr "Verde largo"
+
+msgid "Green long"
 msgstr "Verde largo"
 
 #, fuzzy
@@ -8498,11 +8493,8 @@ msgstr "Grabando"
 msgid "HDMI-IN Recording settings"
 msgstr "Configurar grabaciones"
 
-msgid "HDMI-in button"
+msgid "HDMIin"
 msgstr "Entrada HDMI"
-
-msgid "HDMI-in button hold"
-msgstr "Entrada HDMI largo"
 
 #, fuzzy
 msgid "HDR10 Support"
@@ -8579,10 +8571,7 @@ msgstr ""
 msgid "Help"
 msgstr "Ayuda"
 
-msgid "Help button"
-msgstr "Ayuda"
-
-msgid "Help button hold"
+msgid "Help long"
 msgstr "Ayuda extensa"
 
 msgid "Helps setting up your signal"
@@ -8655,23 +8644,21 @@ msgstr ""
 msgid "Historical"
 msgstr "Historial anterior"
 
+#, fuzzy
 msgid "History"
-msgstr ""
+msgstr "Historial anterior"
 
-msgid "History button"
-msgstr ""
-
-msgid "History Back button"
+msgid "History back"
 msgstr "Historial anterior"
 
 msgid "History buttons mode"
 msgstr "Modo de las teclas de historial"
 
 #, fuzzy
-msgid "History button hold"
+msgid "History long"
 msgstr "Directorio extenso"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Historial siguiente"
 
 msgid "History zap..."
@@ -8697,17 +8684,14 @@ msgstr "Configurar teclas"
 msgid "Home"
 msgstr "Inicio"
 
-msgid "Home button"
-msgstr "Inicio"
-
 #, fuzzy
-msgid "Home button hold"
+msgid "Home long"
 msgstr "Página principal extensa"
 
-msgid "Homepage button"
+msgid "Homepage"
 msgstr "Página principal"
 
-msgid "Homepage button hold"
+msgid "Homepage long"
 msgstr "Página principal extensa"
 
 msgid "Honduras"
@@ -9174,10 +9158,10 @@ msgstr ""
 msgid "Info"
 msgstr ""
 
-msgid "Info/EPG button"
+msgid "Info (EPG)"
 msgstr ""
 
-msgid "Info/EPG button hold"
+msgid "Info (EPG) Long"
 msgstr "Info (EPG) extenso"
 
 msgid "Info Panel"
@@ -9634,15 +9618,12 @@ msgstr ""
 msgid "Keyboard"
 msgstr "Teclado"
 
-msgid "Keyboard button"
-msgstr "Teclado"
-
 #, fuzzy
 msgid "Keyboard data entry"
 msgstr "Configurar teclado"
 
 # normalised
-msgid "Keyboard button hold"
+msgid "Keyboard long"
 msgstr ""
 
 msgid "Keyboard map"
@@ -9724,7 +9705,7 @@ msgid "Kyrgyzstan"
 msgstr ""
 
 #, fuzzy
-msgid "LAN button"
+msgid "LAN"
 msgstr "LNB"
 
 msgid "LAN adapter"
@@ -9734,7 +9715,7 @@ msgid "LAN connection"
 msgstr "Conexión de red local"
 
 #, fuzzy
-msgid "LAN button hold"
+msgid "LAN long"
 msgstr "F1/LAN largo"
 
 msgid "LCD Skin Setup"
@@ -9851,7 +9832,6 @@ msgstr "¿Abandonar el reproductor de DVD?"
 msgid "Leave File Commander"
 msgstr ""
 
-# /SoftwareManager/Flash_online.py
 #, fuzzy
 msgid "Leave multi-select mode"
 msgstr "Selecciona el medio"
@@ -9869,7 +9849,7 @@ msgid "Left from servicename"
 msgstr "A la izquierda del nombre de canal"
 
 #, fuzzy
-msgid "◀︎ Left button hold"
+msgid "Left long"
 msgstr "Rojo largo"
 
 #, fuzzy
@@ -9975,10 +9955,10 @@ msgid_plural "List version %d, found %d channels"
 msgstr[0] "Lista de versión% d, encontrado% d canal"
 msgstr[1] "La versión de la lista% d, encontró% d canales"
 
-msgid "List/FAV button"
+msgid "List/Fav"
 msgstr "Lista / Fav"
 
-msgid "List/FAV button hold"
+msgid "List/Fav long"
 msgstr "Lista / Muy largo"
 
 msgid "Listen to the radio..."
@@ -10167,11 +10147,11 @@ msgstr "MAC:"
 msgid "MORE"
 msgstr "MÁS"
 
-msgid "Mouse button"
+msgid "MOUSE"
 msgstr ""
 
 #, fuzzy
-msgid "Mouse button hold"
+msgid "MOUSE long"
 msgstr "OK largo"
 
 msgid "Macao"
@@ -10279,11 +10259,11 @@ msgstr "Margen antes de grabar (minutos)"
 msgid "Mark service as dedicated 3D service"
 msgstr "Marcar canal como canal 3D"
 
-msgid "Mark/Portal/Playlist button"
+msgid "Mark/Portal/Playlist"
 msgstr "Marca/Portal/Lista de reproducción"
 
 #, fuzzy
-msgid "Mark/Portal/Playlist button hold"
+msgid "Mark/Portal/Playlist long"
 msgstr "Marca/Portal/Lista de reproducción"
 
 #, fuzzy
@@ -10340,7 +10320,7 @@ msgstr "Espacio máximo utilizado (MB):"
 msgid "Mayotte"
 msgstr ""
 
-msgid "Media button"
+msgid "Media"
 msgstr "Medio"
 
 msgid "Media Center"
@@ -10354,7 +10334,7 @@ msgstr "Reproductor"
 msgid "Media Portal"
 msgstr "Abrir MediaPortal"
 
-msgid "Media button hold"
+msgid "Media long"
 msgstr "Media largo"
 
 msgid "Media playback Remaining/Elapsed as"
@@ -10401,9 +10381,6 @@ msgid "Memory index"
 msgstr "Índice de memoria"
 
 msgid "Menu"
-msgstr "Menú"
-
-msgid "Menu button"
 msgstr "Menú"
 
 msgid "Menu config"
@@ -11128,7 +11105,7 @@ msgstr ""
 msgid "News/Current Affairs"
 msgstr "Noticias"
 
-msgid "Next button"
+msgid "Next"
 msgstr "Siguiente"
 
 msgctxt "now/next: 'next' event label"
@@ -11148,11 +11125,11 @@ msgid "Next quad PiP channel"
 msgstr "Ir al siguiente canal"
 
 #, fuzzy
-msgid "Next Track ▶︎▶︎│ button"
+msgid "Nextsong"
 msgstr "Siguiente"
 
 #, fuzzy
-msgid "Next Track ▶︎▶︎│ button hold"
+msgid "Nextsong long"
 msgstr "Contexto largo"
 
 msgid "Nicaragua"
@@ -11581,7 +11558,7 @@ msgstr "Tecla OK (corta)"
 msgid "OK button mode"
 msgstr "Modo de tecla OK"
 
-msgid "OK button hold"
+msgid "OK long"
 msgstr "OK largo"
 
 msgid "OK, guide me through the upgrade process"
@@ -11628,7 +11605,7 @@ msgstr "Información OScam"
 
 #, fuzzy
 msgid "OVR"
-msgstr "PVR button"
+msgstr "PVR"
 
 msgid "Off"
 msgstr ""
@@ -11707,7 +11684,7 @@ msgstr ""
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr ""
 
-msgid "Open button"
+msgid "Open"
 msgstr "Abrir"
 
 msgid "Open AutoTimer"
@@ -11734,7 +11711,7 @@ msgstr "Abrir lista de grupos…"
 msgid "Open favourites list"
 msgstr "Abrir lista de favoritos"
 
-msgid "Open button hold"
+msgid "Open long"
 msgstr "Abrir largo"
 
 msgid "Open satellites list"
@@ -11791,11 +11768,11 @@ msgid "Operating LED status while running"
 msgstr ""
 
 #, fuzzy
-msgid "Option button"
+msgid "Option"
 msgstr "Acción"
 
 #, fuzzy
-msgid "Option button hold"
+msgid "Option long"
 msgstr "Abrir largo"
 
 # Menue Anpassungen OSD
@@ -11894,12 +11871,12 @@ msgid "PAL"
 msgstr ""
 
 #, fuzzy
-msgid "PC button"
+msgid "PC"
 msgstr "PCM"
 
 #, fuzzy
-msgid "PC button hold"
-msgstr "PVR button hold"
+msgid "PC long"
+msgstr "PVR long"
 
 msgid "PCM"
 msgstr ""
@@ -11924,16 +11901,14 @@ msgstr ""
 msgid "PIN code needed"
 msgstr "Es necesario el código PIN"
 
-msgid "PiP"
+msgid "PIP"
 msgstr ""
 
-msgid "PiP button"
-msgstr ""
+#, fuzzy
+msgid "PIP long"
+msgstr "PVR long"
 
-msgid "PiP button hold"
-msgstr ""
-
-msgid "PiP with OSD"
+msgid "PIP with OSD"
 msgstr "PiP con OSD"
 
 msgid "PLP ID"
@@ -11955,10 +11930,10 @@ msgstr ""
 msgid "PRIMETIME"
 msgstr "HORA ESTELAR"
 
-msgid "PVR button"
+msgid "PVR"
 msgstr ""
 
-msgid "PVR button hold"
+msgid "PVR long"
 msgstr ""
 
 msgid "Package list"
@@ -11994,19 +11969,19 @@ msgid "Page up list"
 msgstr "Lista de paquetes"
 
 #, fuzzy
-msgid "Page Down button"
+msgid "PageDown"
 msgstr "Página abajo"
 
 #, fuzzy
-msgid "Page Down button hold"
+msgid "PageDown long"
 msgstr "Encendido largo"
 
 #, fuzzy
-msgid "Page Up button"
+msgid "PageUp"
 msgstr "Página arriba"
 
 #, fuzzy
-msgid "Page Up button hold"
+msgid "PageUp long"
 msgstr "Ayuda extensa"
 
 msgid "Pakistan"
@@ -12096,9 +12071,6 @@ msgstr ""
 msgid "Pause"
 msgstr "Pausa"
 
-msgid "││ Pause button"
-msgstr "Pausa"
-
 msgid "Pause movie at end"
 msgstr "Pausar la película al final"
 
@@ -12174,6 +12146,9 @@ msgstr ""
 msgid "Philippines"
 msgstr ""
 
+msgid "PiP"
+msgstr "PIP"
+
 msgid "PiP-Zap"
 msgstr ""
 
@@ -12233,7 +12208,7 @@ msgstr ""
 msgid "Pixels\n"
 msgstr ""
 
-msgid "▶︎ Play button"
+msgid "Play"
 msgstr "Reproducir"
 
 msgid "Play DVD"
@@ -12291,13 +12266,13 @@ msgstr "Retraso"
 msgid "Play/view/edit/install/extract/run file or enter directory"
 msgstr ""
 
-msgid "Playlist button"
+msgid "Playlist"
 msgstr "Lista de reproducción"
 
-msgid "Playlist button hold"
+msgid "Playlist long"
 msgstr "Lista de reproducción extensa"
 
-msgid "▶︎││ Play/Pause button"
+msgid "Playpause"
 msgstr "Play/Pausa"
 
 msgid "Please add titles to the compilation."
@@ -12784,7 +12759,7 @@ msgstr "Configurar motor"
 msgid "Positioner setup"
 msgstr "Configurar motor"
 
-msgid "Power button"
+msgid "Power"
 msgstr "Encendido"
 
 #, fuzzy
@@ -12809,7 +12784,7 @@ msgstr "Estado del LED en modo de espera/apagado."
 msgid "Power On Display"
 msgstr "Encender pantalla"
 
-msgid "Power button hold"
+msgid "Power long"
 msgstr "Encendido largo"
 
 msgid "Power management. Consult your receiver's manual for more information."
@@ -12979,7 +12954,7 @@ msgstr "Menú previsualizar"
 msgid "Preview selected channel"
 msgstr "Previsualizar canal"
 
-msgid "Previous button"
+msgid "Previous"
 msgstr "Anterior"
 
 # normalised
@@ -12991,11 +12966,11 @@ msgid "Previous page"
 msgstr ""
 
 #, fuzzy
-msgid "│◀︎◀︎ Previous Track button"
+msgid "Prevsong"
 msgstr "Anterior"
 
 #, fuzzy
-msgid "│◀︎◀︎ Previous Track button hold"
+msgid "Prevsong long"
 msgstr "Prov largo"
 
 msgid "Primary DNS"
@@ -13031,7 +13006,7 @@ msgid "Profile: Local box"
 msgstr "Perfil: receptor local"
 
 #, fuzzy
-msgid "Program button"
+msgid "Program"
 msgstr "Progreso"
 
 #, python-format
@@ -13059,7 +13034,7 @@ msgid ""
 msgstr ""
 
 #, fuzzy
-msgid "Program button hold"
+msgid "Program long"
 msgstr "Prov largo"
 
 msgid "Programmlisten History"
@@ -13158,10 +13133,10 @@ msgstr ""
 msgid "Protocol"
 msgstr "Protocolo"
 
-msgid "Prov button"
+msgid "Prov"
 msgstr ""
 
-msgid "Prov button hold"
+msgid "Prov long"
 msgstr "Prov largo"
 
 msgid "Provider"
@@ -13256,8 +13231,9 @@ msgstr ""
 msgid "RAM"
 msgstr ""
 
+#, fuzzy
 msgid "REC"
-msgstr ""
+msgstr "FEC"
 
 msgid "REC Symbol"
 msgstr "Símbolo REC"
@@ -13276,14 +13252,14 @@ msgstr "Salida de antena"
 msgid "RGB"
 msgstr ""
 
-msgid "Radio button"
+msgid "Radio"
 msgstr ""
 
 #, fuzzy
 msgid "Radio Channel Selection"
 msgstr "Selección de canal"
 
-msgid "Radio button hold"
+msgid "Radio long"
 msgstr "Longitud de radio"
 
 #, fuzzy
@@ -13393,11 +13369,11 @@ msgstr "Reconstruir"
 msgid "Rebuild LCN bouquet now?"
 msgstr "¿Reconstruir grupo LCN ahora?"
 
-msgid "● REC button"
+msgid "Rec"
 msgstr "Grabar"
 
 #, fuzzy
-msgid "● REC button hold"
+msgid "Rec long"
 msgstr "Rojo largo"
 
 #, fuzzy
@@ -13517,8 +13493,12 @@ msgstr "Grabar"
 msgid "Recovery Mode"
 msgstr "Grabar una vez"
 
-msgid "Red button"
+msgid "Red"
 msgstr "Rojo"
+
+#, fuzzy
+msgid "Red button"
+msgstr "Tecla roja…"
 
 msgid "Red button..."
 msgstr "Tecla roja…"
@@ -13526,7 +13506,7 @@ msgstr "Tecla roja…"
 msgid "Red colored"
 msgstr "Rojo"
 
-msgid "Red button hold"
+msgid "Red long"
 msgstr "Rojo largo"
 
 msgid "Reduce the size of the service picons for more line spacing between them."
@@ -13971,7 +13951,7 @@ msgstr ""
 msgid "Revue"
 msgstr ""
 
-msgid "◀︎◀︎ Rewind button"
+msgid "Rewind"
 msgstr "Rebobinar"
 
 msgid "Rewind speeds"
@@ -13983,14 +13963,11 @@ msgstr "Remarcar subtítulos"
 msgid "Right"
 msgstr "Derecha"
 
-msgid "Right ▶︎ button"
-msgstr "Derecha"
-
 msgid "Right from servicename"
 msgstr "A la derecha del nombre de canal"
 
 #, fuzzy
-msgid "Right ▶︎ button hold"
+msgid "Right long"
 msgstr "Longitud de radio"
 
 msgid "Roll-off"
@@ -14090,10 +14067,10 @@ msgstr ""
 msgid "SABnzbd Setup"
 msgstr "Configurar SABnzbd"
 
-msgid "SAT button"
+msgid "SAT"
 msgstr ""
 
-msgid "SAT button hold"
+msgid "SAT long"
 msgstr "SAT largo"
 
 msgid "SATA"
@@ -14435,10 +14412,10 @@ msgstr "Seleccionar ubicación"
 msgid "Search west"
 msgstr "Buscar al oeste"
 
-msgid "Search/WEB button"
+msgid "Search/WEB"
 msgstr "Buscar/WEB"
 
-msgid "Search/WEB button hold"
+msgid "Search/WEB long"
 msgstr "Búsqueda / WEB largo"
 
 msgid "Searching"
@@ -16319,13 +16296,13 @@ msgstr ""
 msgid "Skinselector"
 msgstr "Selector de tema"
 
-msgid "Skip Backward button"
+msgid "Skip back"
 msgstr "Saltar hacia atrás"
 
 msgid "Skip empty services"
 msgstr "Saltar canales vacíos"
 
-msgid "Skip Forward button"
+msgid "Skip forward"
 msgstr "Saltar hacia delante"
 
 # Erstassi
@@ -16339,7 +16316,7 @@ msgstr "Selección de película"
 msgid "Slapstick"
 msgstr ""
 
-msgid "Sleep button"
+msgid "Sleep"
 msgstr "Dormir"
 
 msgid "Sleep Timer"
@@ -16349,7 +16326,7 @@ msgid "Sleep delay"
 msgstr "Retraso nocturno"
 
 #, fuzzy
-msgid "Sleep button hold"
+msgid "Sleep long"
 msgstr "Ayuda extensa"
 
 msgid "SleepTimer"
@@ -16409,9 +16386,6 @@ msgid "Slovenian"
 msgstr "Esloveno"
 
 msgid "Slow"
-msgstr "Lento"
-
-msgid "Slow button"
 msgstr "Lento"
 
 msgid "Slow motion speeds"
@@ -16506,7 +16480,6 @@ msgstr "Configurar administrador de software"
 msgid "Software restore"
 msgstr "Restaurar software"
 
-# /SoftwareManager/plugin.py
 msgid "Software update"
 msgstr "Actualizar software"
 
@@ -16824,9 +16797,6 @@ msgstr "Camino hacia el oeste"
 msgid "Stop"
 msgstr "Parar"
 
-msgid "■ Stop button"
-msgstr "Parar"
-
 msgid "Stop PiP"
 msgstr "Detener PiP"
 
@@ -16966,7 +16936,7 @@ msgstr "Modo subcanal"
 msgid "Subservices"
 msgstr "Subcanales"
 
-msgid "Subtitle button"
+msgid "Subtitle"
 msgstr "Subtítulo"
 
 # Subtitle QuickMenu
@@ -17004,7 +16974,7 @@ msgstr "Selección de 3º idioma de subtítulos"
 msgid "Subtitle language selection 4"
 msgstr "Selección de 4º idioma de subtítulos"
 
-msgid "Subtitle button hold"
+msgid "Subtitle long"
 msgstr "Subtítulo largo"
 
 msgid "Subtitle position"
@@ -17268,7 +17238,7 @@ msgstr "El archivo TS es demasiado grande para el nivel 1 ISO9660."
 msgid "TSID"
 msgstr ""
 
-msgid "TV button"
+msgid "TV"
 msgstr ""
 
 msgid "TV button mode"
@@ -17313,9 +17283,6 @@ msgid "Technik"
 msgstr ""
 
 msgid "Teletext"
-msgstr "Teletexto"
-
-msgid "Text button"
 msgstr "Teletexto"
 
 msgid "Teletext CleanAlgo (resolution reset algorithm)"
@@ -18274,9 +18241,6 @@ msgstr ""
 msgid "Time"
 msgstr "Hora"
 
-msgid "Time button"
-msgstr "Hora"
-
 msgid "Time Update in Minutes"
 msgstr "Actualización horaria en minutos"
 
@@ -18323,7 +18287,7 @@ msgid "Time jump: Use normal fast forward for speeds"
 msgstr "Salto de tiempo: usa velocidad normal en el avance rápido"
 
 #, fuzzy
-msgid "Time button hold"
+msgid "Time long"
 msgstr "Historial de temporizadores"
 
 # PowerTimerList.py
@@ -18631,7 +18595,7 @@ msgstr "Traducciones"
 msgid "Transmission mode"
 msgstr "Modo de transmisión"
 
-msgid "transparent"
+msgid "Transparent"
 msgstr "Transparente"
 
 msgid "Transponder"
@@ -19056,7 +19020,7 @@ msgstr ""
 msgid "Unzipping Image"
 msgstr ""
 
-msgid "▲ Up button"
+msgid "Up"
 msgstr "Arriba"
 
 msgid "Up/Down button mode"
@@ -19128,7 +19092,6 @@ msgstr "Actualizaciones disponibles:"
 msgid "Updating cache"
 msgstr "Caché de actualización"
 
-# /SoftwareManager/Flash_online.py
 #, fuzzy
 msgid "Updating cache, please wait..."
 msgstr "Descomprimiendo archivos. Espera…"
@@ -19447,11 +19410,11 @@ msgid "VMGM (intro trailer)"
 msgstr "VMGM (trailer intro)"
 
 #, fuzzy
-msgid "VoD button"
+msgid "VOD"
 msgstr "OSD"
 
 #, fuzzy
-msgid "VoD button hold"
+msgid "VOD long"
 msgstr "OK largo"
 
 #, fuzzy
@@ -19776,10 +19739,10 @@ msgstr "Ajustar volumen"
 msgid "Volume Config"
 msgstr "Configuración de volumen"
 
-msgid "Volume - button"
+msgid "Volume down"
 msgstr "Bajar volumen"
 
-msgid "Volume + button"
+msgid "Volume up"
 msgstr "Subir volumen"
 
 msgid "Vorschau"
@@ -20042,7 +20005,6 @@ msgstr "¿Qué quieres buscar?"
 msgid "When enabled enigma2 will load unlinked userbouquets. This means that userbouquets that are available, but not included in the bouquets.tv or bouquets.radio files, will still be loaded. This allows you for example to keep your own user bouquet while installed settings are upgraded"
 msgstr "Cuando está activado, Enigma2 cargará los grupos de usuario de canales desvinculados. Esto significa que los grupos de usuario de canales disponibles, pero no incluidos en los archivos bouquets.tv o bouquets.radio, serán cargados. Esto permite, por ejemplo, conservar tus grupos de usuario cuando los ajustes instalados son actualizados."
 
-# /data/setup.xml
 msgid "When enabled the PiP can be closed by the exit button."
 msgstr "Cuando está activado, PiP puede cerrarse con la tecla EXIT."
 
@@ -20223,6 +20185,9 @@ msgstr "¿Qué programa quieres guardar permanentemente?"
 msgid "While available"
 msgstr "Disponible"
 
+msgid "White"
+msgstr "Blanco"
+
 msgid "Width"
 msgstr "Ancho"
 
@@ -20321,11 +20286,11 @@ msgstr ""
 msgid "Write failed!"
 msgstr "Fallo durante la escritura."
 
-msgid "www button"
-msgstr "www"
+msgid "Www"
+msgstr ""
 
-msgid "www button hold"
-msgstr "www largo"
+msgid "Www long"
+msgstr "Www largo"
 
 msgid "XBox 360 support"
 msgstr "Soporte XBox 360"
@@ -20354,13 +20319,17 @@ msgstr ""
 msgid "Year"
 msgstr "Año"
 
-msgid "Yellow button"
+msgid "Yellow"
 msgstr "Amarillo"
 
 msgid "Yellow DVB subtitles"
 msgstr "Subtítulos DVB en amarillo"
 
-msgid "Yellow button hold"
+#, fuzzy
+msgid "Yellow button"
+msgstr "Amarillo largo"
+
+msgid "Yellow long"
 msgstr "Amarillo largo"
 
 #, fuzzy
@@ -20801,11 +20770,11 @@ msgstr ""
 msgid "ZAP"
 msgstr "Zapear"
 
-msgid "Zoom button"
+msgid "ZOOM"
 msgstr ""
 
 #, fuzzy
-msgid "Zoom button hold"
+msgid "ZOOM long"
 msgstr "OK largo"
 
 #, fuzzy
@@ -20957,7 +20926,7 @@ msgstr "A punto de comenzar"
 msgid "activate network adapter configuration"
 msgstr "Activar configuración del adaptador de red"
 
-msgid "Activate PiP button"
+msgid "activatePiP"
 msgstr "Activar PiP"
 
 msgid "add Current"
@@ -22202,7 +22171,6 @@ msgstr "eliminar canales de cable"
 msgid "remove directory"
 msgstr "Borrar directorio"
 
-# /lib/python/Screens/ChannelSelection.py
 msgid "remove entry"
 msgstr "Eliminar entrada"
 
@@ -22224,7 +22192,6 @@ msgstr "Borrar esta marca"
 msgid "rename"
 msgstr "Renombrar"
 
-# /lib/python/Screens/ChannelSelection.py
 msgid "rename entry"
 msgstr "Renombrar entrada"
 
@@ -23644,7 +23611,6 @@ msgstr "Zapping"
 #~ msgid "Display message before next played movie"
 #~ msgstr "Mostrar un mensaje antes de reproducir la siguiente película"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid ""
 #~ "Do you really want to delete\n"
 #~ "%s ?"
@@ -23857,7 +23823,6 @@ msgstr "Zapping"
 #~ msgid "Flash Memory free: %s MByte"
 #~ msgstr "Memoria Flash libre: %s Mbyte"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid "Flash On the fly (select a image)"
 #~ msgstr "Flashear via OTA (selecciona una imagen)"
 
@@ -24229,7 +24194,6 @@ msgstr "Zapping"
 #~ msgid "Load Length of Movies in Movielist"
 #~ msgstr "Cargar duración de películas en la lista"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid "Local = Flash a image from local path /hdd/images"
 #~ msgstr "Local = Flashear una imagen desde la ruta /hdd/images"
 
@@ -24520,7 +24484,6 @@ msgstr "Zapping"
 #~ "No hay espacio suficiente en /hdd\n"
 #~ "Necesitas como mínimo 300MB libres.\n"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid ""
 #~ "Not enough free space on /hdd !!\n"
 #~ "You need at least 300Mb free space.\n"
@@ -24576,7 +24539,6 @@ msgstr "Zapping"
 #~ msgid "One partiition"
 #~ msgstr "Una partición"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid "Online = Download a image and flash it"
 #~ msgstr "Online = descargar una imagen y flashearla"
 
@@ -25536,7 +25498,6 @@ msgstr "Zapping"
 #~ msgid "The current beta image could not be stable"
 #~ msgstr "La imagen beta actual podría ser inestable"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid "The image is downloaded. Do you want to flash now?"
 #~ msgstr "La imagen está descargada. ¿Quieres flashear ahora?"
 
@@ -26315,7 +26276,6 @@ msgstr "Zapping"
 #~ msgid "no standby"
 #~ msgstr "Sin modo de espera"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid ""
 #~ "ofgwrite not found !!\n"
 #~ "Please make sure you have ofgwrite installed in /usr/bin/ofgwrite.\n"

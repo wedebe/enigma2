@@ -97,7 +97,6 @@ msgstr ""
 "\n"
 "Muuda uuenduste allika aadressi."
 
-# /SoftwareManager/Flash_online.py
 #, python-format
 msgid ""
 "\n"
@@ -2970,7 +2969,7 @@ msgstr "Küsitakse (vaikimisi 'ei')"
 msgid "Ask user (with default as 'yes')"
 msgstr "Küsitakse (vaikimisi 'jah')"
 
-msgid "Aspect button"
+msgid "Aspect"
 msgstr ""
 
 msgid "Aspect Ratio"
@@ -2979,7 +2978,7 @@ msgstr "Kuvasuhe"
 msgid "Aspect list..."
 msgstr "Kuvasuhe."
 
-msgid "Aspect button hold"
+msgid "Aspect long"
 msgstr "Aspect - pikk"
 
 msgid "Aspect ratio"
@@ -3011,9 +3010,6 @@ msgid "Attach a file"
 msgstr "Lisa fail"
 
 msgid "Audio"
-msgstr "Heli"
-
-msgid "Audio button"
 msgstr "Heli"
 
 # A/V Settings
@@ -3050,7 +3046,7 @@ msgstr "Heli keelevalik 3"
 msgid "Audio language selection 4"
 msgstr "Heli keelevalik 4"
 
-msgid "Audio button hold"
+msgid "Audio long"
 msgstr "Audio - pikk"
 
 msgid "Audio options..."
@@ -3290,10 +3286,7 @@ msgstr "Tööriist %s varundamiseks\n"
 msgid "Back-up Tool for an %s\n"
 msgstr "Tööriist %s varundamiseks\n"
 
-msgid "Back/Recall button"
-msgstr ""
-
-msgid "Back/Recall button hold"
+msgid "Back/Recall"
 msgstr ""
 
 msgid "Background"
@@ -3513,6 +3506,9 @@ msgstr "Bitikiirus"
 msgid "Bitrate:"
 msgstr "Bitikiirus:"
 
+msgid "Black"
+msgstr "Must"
+
 msgid "Black screen"
 msgstr "Must ekraan"
 
@@ -3531,10 +3527,13 @@ msgstr ""
 msgid "Block noise reduction"
 msgstr "Plokkmüra vähendamine"
 
+msgid "Blue"
+msgstr "Sinine"
+
 msgid "Blue button"
 msgstr "Sinine nupp"
 
-msgid "Blue button hold"
+msgid "Blue long"
 msgstr "Sinine - pikk"
 
 msgid "BlueSwitch: Blue-Short/Blue-Long"
@@ -4147,7 +4146,7 @@ msgstr "Kanalinupud"
 msgid "Channel buttons invert"
 msgstr "Pööratud kanalinupud"
 
-msgid "Channel Down button"
+msgid "Channel down"
 msgstr "CH-"
 
 msgid "Channel list context menu"
@@ -4190,7 +4189,7 @@ msgstr "Kanalivaliku seaded"
 msgid "Channel selection settings"
 msgstr "Kanalivaliku seaded"
 
-msgid "Channel Up button"
+msgid "Channel up"
 msgstr "CH"
 
 msgid "Channel zap delay another button"
@@ -5026,10 +5025,10 @@ msgstr "Sisu"
 msgid "Content does not fit on DVD!"
 msgstr "Sisu ei mahu DVD-le!"
 
-msgid "Context button"
+msgid "Context"
 msgstr "Kontekst"
 
-msgid "Context button hold"
+msgid "Context long"
 msgstr "Context - pikk"
 
 msgid "Continue"
@@ -5994,9 +5993,6 @@ msgstr "Salvestuste taasesitus ilma menüüta"
 msgid "Directory"
 msgstr "Kataloog"
 
-msgid "Directory button"
-msgstr "Kataloog"
-
 #, python-format
 msgid "Directory %s does not exist."
 msgstr "Kataloogi %s ei eksisteeri."
@@ -6004,7 +6000,7 @@ msgstr "Kataloogi %s ei eksisteeri."
 msgid "Directory browser"
 msgstr "Kataloogilehitseja"
 
-msgid "Directory button hold"
+msgid "Directory long"
 msgstr "Directory - pikk"
 
 msgid "Disable"
@@ -6361,7 +6357,7 @@ msgid_plural "Done - Installed, upgraded or removed %d packages (%s)"
 msgstr[0] "Valmis - paigaldati, uuendati või eemaldati %d pakett (%s)"
 msgstr[1] "Valmis - paigaldati, uuendati või eemaldati %d paketti (%s)"
 
-msgid "▼ Down button"
+msgid "Down"
 msgstr "Alla"
 
 msgid "Download"
@@ -6468,10 +6464,10 @@ msgstr "ECM aeg"
 msgid "EDID decode"
 msgstr ""
 
-msgid "Eject button"
+msgid "EJECTCD"
 msgstr ""
 
-msgid "Eject button hold"
+msgid "EJECTCD long"
 msgstr "EJECTCD - pikk"
 
 msgid "EPG"
@@ -6829,10 +6825,10 @@ msgstr "Kodeeringu võtme tüüp"
 msgid "Encryption:"
 msgstr "Kodeering:"
 
-msgid "End button"
+msgid "End"
 msgstr "Lõpp"
 
-msgid "End button hold"
+msgid "End long"
 msgstr "End - pikk"
 
 msgid "End time"
@@ -6923,10 +6919,10 @@ msgstr "Peamenüü."
 msgid "Entitlements"
 msgstr "Õigused"
 
-msgid "EPG/Guide button"
+msgid "Epg/Guide"
 msgstr ""
 
-msgid "EPG/Guide button hold"
+msgid "Epg/Guide long"
 msgstr "Epg/Guide - pikk"
 
 msgid "Epos"
@@ -7332,31 +7328,31 @@ msgstr "meeskonnasport"
 msgid "Extrude from left"
 msgstr "Surumine vasakult"
 
-msgid "F1 button"
+msgid "F1"
 msgstr ""
 
-msgid "F1 button hold"
+msgid "F1 long"
 msgstr "F1 - pikk"
 
 msgid "F1/F3/F4/F4-TURBO/TRIPLEX"
 msgstr ""
 
-msgid "F2 button"
+msgid "F2"
 msgstr ""
 
-msgid "F2 button hold"
+msgid "F2 long"
 msgstr "F2 - pikk"
 
-msgid "F3 button"
+msgid "F3"
 msgstr ""
 
-msgid "F3 button hold"
+msgid "F3 long"
 msgstr "F3 - pikk"
 
-msgid "F4 button"
+msgid "F4"
 msgstr ""
 
-msgid "F4 button hold"
+msgid "F4 long"
 msgstr "F4 - pikk"
 
 msgid "FCC 1953"
@@ -7444,13 +7440,13 @@ msgstr "Kiire kerimine"
 msgid "Fast forward speeds"
 msgstr "Edasikerimise kiirused"
 
-msgid "▶︎▶︎ Fast Forward button"
+msgid "Fastforward"
 msgstr "Edasikerimine"
 
-msgid "Favourites button"
+msgid "Favorites"
 msgstr ""
 
-msgid "Favourites button hold"
+msgid "Favorites long"
 msgstr "Favorites - pikk"
 
 msgid "Favourites"
@@ -7474,7 +7470,7 @@ msgstr ""
 msgid "Fiji"
 msgstr "Fidži"
 
-msgid "File button"
+msgid "File"
 msgstr "Fail"
 
 msgid "File Commander"
@@ -7528,7 +7524,7 @@ msgstr "Failide kontrollsummad nupuga 9"
 msgid "File checksums/hashes"
 msgstr "Faili kontrollsummad/räsid"
 
-msgid "File button hold"
+msgid "File long"
 msgstr "File - pikk"
 
 #, python-format
@@ -7636,7 +7632,6 @@ msgstr "Paigalda"
 msgid "Flash Image"
 msgstr "Püsivara paigaldus"
 
-# /SoftwareManager/plugin.py
 msgid "Flash On the Fly"
 msgstr "Paigalda püsivara"
 
@@ -8082,10 +8077,13 @@ msgstr "Kreeka"
 msgid "Greek"
 msgstr "Kreeka"
 
+msgid "Green"
+msgstr "Roheline"
+
 msgid "Green button"
 msgstr "Roheline nupp"
 
-msgid "Green button hold"
+msgid "Green long"
 msgstr "Roheline - pikk"
 
 msgid "Greenland"
@@ -8188,10 +8186,7 @@ msgstr "HDMI salvestus"
 msgid "HDMI-IN Recording settings"
 msgstr "HDMI salvestuse seaded"
 
-msgid "HDMI-in button"
-msgstr ""
-
-msgid "HDMI-in button hold"
+msgid "HDMIin"
 msgstr ""
 
 msgid "HDR10 Support"
@@ -8263,10 +8258,7 @@ msgstr ""
 msgid "Help"
 msgstr ""
 
-msgid "Help button"
-msgstr ""
-
-msgid "Help button hold"
+msgid "Help long"
 msgstr "Help - pikk"
 
 msgid "Helps setting up your signal"
@@ -8340,19 +8332,16 @@ msgstr "Ajalugu"
 msgid "History"
 msgstr "Ajalugu"
 
-msgid "History button"
-msgstr "Ajalugu"
-
-msgid "History Back button"
+msgid "History back"
 msgstr "Kanaliajaloos tagasi"
 
 msgid "History buttons mode"
 msgstr "Ajaloonuppude vajutus"
 
-msgid "History button hold"
+msgid "History long"
 msgstr "History - pikk"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Kanaliajaloos edasi"
 
 msgid "History zap..."
@@ -8377,16 +8366,13 @@ msgstr "Vatikan"
 msgid "Home"
 msgstr "Avaleht"
 
-msgid "Home button"
-msgstr "Avaleht"
-
-msgid "Home button hold"
+msgid "Home long"
 msgstr "Home - pikk"
 
-msgid "Homepage button"
+msgid "Homepage"
 msgstr "Avaleht"
 
-msgid "Homepage button hold"
+msgid "Homepage long"
 msgstr "Homepage - pikk"
 
 msgid "Honduras"
@@ -8845,10 +8831,10 @@ msgstr "Indoneesia"
 msgid "Info"
 msgstr ""
 
-msgid "Info/EPG button"
+msgid "Info (EPG)"
 msgstr ""
 
-msgid "Info/EPG button hold"
+msgid "Info (EPG) Long"
 msgstr "Info (EPG) - pikk"
 
 msgid "Info Panel"
@@ -9292,14 +9278,11 @@ msgstr ""
 msgid "Keyboard"
 msgstr "Klaviatuur"
 
-msgid "Keyboard button"
-msgstr "Klaviatuur"
-
 msgid "Keyboard data entry"
 msgstr "Klaviatuuri andmesisestus"
 
 # normalised
-msgid "Keyboard button hold"
+msgid "Keyboard long"
 msgstr ""
 
 msgid "Keyboard map"
@@ -9376,7 +9359,7 @@ msgstr "Kuveit"
 msgid "Kyrgyzstan"
 msgstr "Kõrgõstan"
 
-msgid "LAN button"
+msgid "LAN"
 msgstr ""
 
 msgid "LAN adapter"
@@ -9385,7 +9368,7 @@ msgstr "Võrgukaart"
 msgid "LAN connection"
 msgstr "LAN ühendus"
 
-msgid "LAN button hold"
+msgid "LAN long"
 msgstr "LAN - pikk"
 
 msgid "LCD Skin Setup"
@@ -9514,7 +9497,7 @@ msgstr "Vasak"
 msgid "Left from servicename"
 msgstr "Kanali nimest vasakul"
 
-msgid "◀︎ Left button hold"
+msgid "Left long"
 msgstr "Vasak - pikk"
 
 #, fuzzy
@@ -9616,10 +9599,10 @@ msgid_plural "List version %d, found %d channels"
 msgstr[0] "Nimekirja versioon %d, leitud %d kanal"
 msgstr[1] "Nimekirja versioon %d, leitud %d kanalit"
 
-msgid "List/FAV button"
+msgid "List/Fav"
 msgstr ""
 
-msgid "List/FAV button hold"
+msgid "List/Fav long"
 msgstr "List/Fav - pikk"
 
 msgid "Listen to the radio..."
@@ -9794,10 +9777,10 @@ msgstr "MAC"
 msgid "MORE"
 msgstr "VEEL"
 
-msgid "Mouse button"
+msgid "MOUSE"
 msgstr ""
 
-msgid "Mouse button hold"
+msgid "MOUSE long"
 msgstr "MOUSE - pikk"
 
 msgid "Macao"
@@ -9904,10 +9887,10 @@ msgstr "Salvestuse algusesse lisatakse (min)"
 msgid "Mark service as dedicated 3D service"
 msgstr "Tähista 3D kanalina"
 
-msgid "Mark/Portal/Playlist button"
+msgid "Mark/Portal/Playlist"
 msgstr ""
 
-msgid "Mark/Portal/Playlist button hold"
+msgid "Mark/Portal/Playlist long"
 msgstr "Mark/Portal/Playlist - pikk"
 
 msgid "Marshall Islands"
@@ -9960,7 +9943,7 @@ msgstr "Suurim lubatud kettaruum (MB)"
 msgid "Mayotte"
 msgstr ""
 
-msgid "Media button"
+msgid "Media"
 msgstr ""
 
 msgid "Media Center"
@@ -9972,7 +9955,7 @@ msgstr "Meediamängija"
 msgid "Media Portal"
 msgstr ""
 
-msgid "Media button hold"
+msgid "Media long"
 msgstr "Media - pikk"
 
 msgid "Media playback Remaining/Elapsed as"
@@ -10018,9 +10001,6 @@ msgid "Memory index"
 msgstr "Mälu indeks"
 
 msgid "Menu"
-msgstr "Menüü"
-
-msgid "Menu button"
 msgstr "Menüü"
 
 msgid "Menu config"
@@ -10721,7 +10701,7 @@ msgstr ""
 msgid "News/Current Affairs"
 msgstr "Uudised sündmused"
 
-msgid "Next button"
+msgid "Next"
 msgstr "Järgmine"
 
 msgctxt "now/next: 'next' event label"
@@ -10739,10 +10719,10 @@ msgstr ""
 msgid "Next quad PiP channel"
 msgstr "Järgmine Quad PiP kanal"
 
-msgid "Next Track ▶︎▶︎│ button"
+msgid "Nextsong"
 msgstr ""
 
-msgid "Next Track ▶︎▶︎│ button hold"
+msgid "Nextsong long"
 msgstr "Nextsong - pikk"
 
 msgid "Nicaragua"
@@ -11165,7 +11145,7 @@ msgstr "OK nupp (lühike)"
 msgid "OK button mode"
 msgstr "OK nupu vajutus"
 
-msgid "OK button hold"
+msgid "OK long"
 msgstr "OK - pikk"
 
 msgid "OK, guide me through the upgrade process"
@@ -11287,7 +11267,7 @@ msgstr ""
 msgid "Only select 'yes' if you are using a multiswich that requires a DiSEqC Port-A command signal. For all other setups select 'no'."
 msgstr "Vali 'jah' ainult juhul, kui kasutatav multiswich lüliti nõuab DiSEqC Port-A käsu signaali. Kõigil teistel juhtudel vali 'ei'."
 
-msgid "Open button"
+msgid "Open"
 msgstr "Ava"
 
 msgid "Open AutoTimer"
@@ -11314,7 +11294,7 @@ msgstr "Kuva lemmiknimekirjad."
 msgid "Open favourites list"
 msgstr "Lemmiknimekirjad"
 
-msgid "Open button hold"
+msgid "Open long"
 msgstr "Open - pikk"
 
 msgid "Open satellites list"
@@ -11370,10 +11350,10 @@ msgstr "Toite LED ooteseisundis."
 msgid "Operating LED status while running"
 msgstr ""
 
-msgid "Option button"
+msgid "Option"
 msgstr ""
 
-msgid "Option button hold"
+msgid "Option long"
 msgstr "Option - pikk"
 
 # Menue Anpassungen OSD
@@ -11469,10 +11449,10 @@ msgstr "LEHT ÜLES/ALLA"
 msgid "PAL"
 msgstr ""
 
-msgid "PC button"
+msgid "PC"
 msgstr ""
 
-msgid "PC button hold"
+msgid "PC long"
 msgstr "PC - pikk"
 
 msgid "PCM"
@@ -11484,8 +11464,9 @@ msgstr "PCM mitmekanaline"
 msgid "PCR PID"
 msgstr ""
 
+#, fuzzy
 msgid "PDC"
-msgstr ""
+msgstr "PC"
 
 msgid "PID"
 msgstr ""
@@ -11496,16 +11477,13 @@ msgstr "PIDid"
 msgid "PIN code needed"
 msgstr "Vajalik on PIN-kood"
 
-msgid "PiP"
-msgstr ""
-
-msgid "PiP button"
+msgid "PIP"
 msgstr "PiP"
 
-msgid "PiP button hold"
+msgid "PIP long"
 msgstr "PiP - pikk"
 
-msgid "PiP with OSD"
+msgid "PIP with OSD"
 msgstr "PiP ja OSD"
 
 msgid "PLP ID"
@@ -11526,10 +11504,10 @@ msgstr ""
 msgid "PRIMETIME"
 msgstr "TIPPAEG"
 
-msgid "PVR button"
+msgid "PVR"
 msgstr ""
 
-msgid "PVR button hold"
+msgid "PVR long"
 msgstr "PVR - pikk"
 
 msgid "Package list"
@@ -11562,16 +11540,16 @@ msgstr "Leht üles"
 msgid "Page up list"
 msgstr ""
 
-msgid "Page Down button"
+msgid "PageDown"
 msgstr ""
 
-msgid "Page Down button hold"
+msgid "PageDown long"
 msgstr "PageDown - pikk"
 
-msgid "Page Up button"
+msgid "PageUp"
 msgstr ""
 
-msgid "Page Up button hold"
+msgid "PageUp long"
 msgstr "PageUp - pikk"
 
 msgid "Pakistan"
@@ -11659,9 +11637,6 @@ msgstr "Salvestamise asukohta pole olemas: '/tmp/'"
 msgid "Pause"
 msgstr "Paus"
 
-msgid "││ Pause button"
-msgstr "Paus"
-
 msgid "Pause movie at end"
 msgstr "Filmi lõppedes pausile"
 
@@ -11734,6 +11709,9 @@ msgstr "Peruu"
 msgid "Philippines"
 msgstr "Filipiinid"
 
+msgid "PiP"
+msgstr ""
+
 msgid "PiP-Zap"
 msgstr "PiP-kanalivahetus"
 
@@ -11792,7 +11770,7 @@ msgstr ""
 msgid "Pixels\n"
 msgstr ""
 
-msgid "▶︎ Play button"
+msgid "Play"
 msgstr "Esita"
 
 msgid "Play DVD"
@@ -11808,7 +11786,6 @@ msgstr "Mängi taustal heli"
 msgid "Play audio-CD..."
 msgstr "Esita heliplaat"
 
-# /Extensions/MediaPlayer
 msgid "Play back media files"
 msgstr "Esita meediafaile"
 
@@ -11848,13 +11825,13 @@ msgstr "Esita fail"
 msgid "Play/view/edit/install/extract/run file or enter directory"
 msgstr "Esita/vaata/muuda/paigalda/paki/käivita fail või sisene kataloogi"
 
-msgid "Playlist button"
+msgid "Playlist"
 msgstr "Pleilist"
 
-msgid "Playlist button hold"
+msgid "Playlist long"
 msgstr "Playlist - pikk"
 
-msgid "▶︎││ Play/Pause button"
+msgid "Playpause"
 msgstr "Esita/paus"
 
 msgid "Please add titles to the compilation."
@@ -12339,7 +12316,7 @@ msgstr "Positsioneeri seadistuse logi"
 msgid "Positioner setup"
 msgstr "Ajami seadistamine"
 
-msgid "Power button"
+msgid "Power"
 msgstr "Toitenupp"
 
 msgid "Power LED State in Deep-Standby"
@@ -12360,7 +12337,7 @@ msgstr "Toite LED ooteseisundis."
 msgid "Power On Display"
 msgstr "Esipaneeli näidik kasutuses"
 
-msgid "Power button hold"
+msgid "Power long"
 msgstr "Toitenupp - pikk"
 
 msgid "Power management. Consult your receiver's manual for more information."
@@ -12526,7 +12503,7 @@ msgstr "Eelvaate menüü"
 msgid "Preview selected channel"
 msgstr "Valitud kanali eelvaatlus"
 
-msgid "Previous button"
+msgid "Previous"
 msgstr "Eelmine"
 
 # normalised
@@ -12537,10 +12514,10 @@ msgstr ""
 msgid "Previous page"
 msgstr ""
 
-msgid "│◀︎◀︎ Previous Track button"
+msgid "Prevsong"
 msgstr ""
 
-msgid "│◀︎◀︎ Previous Track button hold"
+msgid "Prevsong long"
 msgstr "Prevsong - pikk"
 
 msgid "Primary DNS"
@@ -12574,7 +12551,7 @@ msgstr "Profiil"
 msgid "Profile: Local box"
 msgstr "Profiil: kohalik vastuvõtja"
 
-msgid "Program button"
+msgid "Program"
 msgstr ""
 
 #, python-format
@@ -12609,7 +12586,7 @@ msgstr ""
 "Programm '%s' ei ole paigaldatud.\n"
 "Seda programmi sisaldav pakett ei ole teada."
 
-msgid "Program button hold"
+msgid "Program long"
 msgstr "Program - pikk"
 
 msgid "Programmlisten History"
@@ -12708,10 +12685,10 @@ msgstr "Protek 4K UHD"
 msgid "Protocol"
 msgstr "Protokoll"
 
-msgid "Prov button"
+msgid "Prov"
 msgstr ""
 
-msgid "Prov button hold"
+msgid "Prov long"
 msgstr "Prov - pikk"
 
 msgid "Provider"
@@ -12821,13 +12798,13 @@ msgstr "RF-väljund"
 msgid "RGB"
 msgstr ""
 
-msgid "Radio button"
+msgid "Radio"
 msgstr "Raadio"
 
 msgid "Radio Channel Selection"
 msgstr "Raadiokanalid"
 
-msgid "Radio button hold"
+msgid "Radio long"
 msgstr "Radio - pikk"
 
 #, fuzzy
@@ -12934,10 +12911,10 @@ msgstr "Loo uuesti"
 msgid "Rebuild LCN bouquet now?"
 msgstr "Kas luua LCN lemmiknimekiri uuesti?"
 
-msgid "● REC button"
+msgid "Rec"
 msgstr ""
 
-msgid "● REC button hold"
+msgid "Rec long"
 msgstr "REC - pikk"
 
 #, fuzzy
@@ -13055,16 +13032,19 @@ msgstr "Salvestised"
 msgid "Recovery Mode"
 msgstr "Taasterežiim"
 
+msgid "Red"
+msgstr "Punane"
+
 msgid "Red button"
 msgstr "Punane nupp"
 
 msgid "Red button..."
-msgstr "Punane nupp..."
+msgstr "Punane nupp"
 
 msgid "Red colored"
 msgstr "Punast värvi"
 
-msgid "Red button hold"
+msgid "Red long"
 msgstr "Punane - pikk"
 
 msgid "Reduce the size of the service picons for more line spacing between them."
@@ -13493,7 +13473,7 @@ msgstr ""
 msgid "Revue"
 msgstr ""
 
-msgid "◀︎◀︎ Rewind button"
+msgid "Rewind"
 msgstr "Tagasikerimine"
 
 msgid "Rewind speeds"
@@ -13506,13 +13486,10 @@ msgstr "Subtiitrite ümberpakkimine"
 msgid "Right"
 msgstr "Parem"
 
-msgid "Right ▶︎ button"
-msgstr "Parem"
-
 msgid "Right from servicename"
 msgstr "Kanali nimest paremal"
 
-msgid "Right ▶︎ button hold"
+msgid "Right long"
 msgstr "Parem - pikk"
 
 msgid "Roll-off"
@@ -13605,10 +13582,10 @@ msgstr ""
 msgid "SABnzbd Setup"
 msgstr "SABnzbd seaded"
 
-msgid "SAT button"
+msgid "SAT"
 msgstr ""
 
-msgid "SAT button hold"
+msgid "SAT long"
 msgstr "SAT - pikk"
 
 msgid "SATA"
@@ -13946,10 +13923,10 @@ msgstr "Asukoha ID otsing"
 msgid "Search west"
 msgstr "Otsi läänest"
 
-msgid "Search/WEB button"
+msgid "Search/WEB"
 msgstr ""
 
-msgid "Search/WEB button hold"
+msgid "Search/WEB long"
 msgstr "Search/WEB - pikk"
 
 msgid "Searching"
@@ -15770,13 +15747,13 @@ msgstr "Kujundused"
 msgid "Skinselector"
 msgstr "Kujunduse valik"
 
-msgid "Skip Backward button"
+msgid "Skip back"
 msgstr "Tagasihüpe"
 
 msgid "Skip empty services"
 msgstr "Tühje kanaleid ei kuvata"
 
-msgid "Skip Forward button"
+msgid "Skip forward"
 msgstr "Edasihüpe"
 
 msgid "Skip internet connection check (disables automatic package installation)"
@@ -15788,7 +15765,7 @@ msgstr "Jäta valitud vahele"
 msgid "Slapstick"
 msgstr ""
 
-msgid "Sleep button"
+msgid "Sleep"
 msgstr "Unetaimer"
 
 msgid "Sleep Timer"
@@ -15797,7 +15774,7 @@ msgstr "Unetaimer"
 msgid "Sleep delay"
 msgstr "Sulgemise viiteaeg"
 
-msgid "Sleep button hold"
+msgid "Sleep long"
 msgstr "Sleep - pikk"
 
 msgid "SleepTimer"
@@ -15853,9 +15830,6 @@ msgid "Slovenian"
 msgstr "Sloveeni"
 
 msgid "Slow"
-msgstr "Aeglane"
-
-msgid "Slow button"
 msgstr "Aeglane"
 
 msgid "Slow motion speeds"
@@ -16254,9 +16228,6 @@ msgstr "Astuti läände"
 msgid "Stop"
 msgstr "Peata"
 
-msgid "■ Stop button"
-msgstr "Peata"
-
 # UsageConfig.py:117
 msgid "Stop PiP"
 msgstr "Sulge PiP"
@@ -16392,7 +16363,7 @@ msgstr "Alamkanalid (roheline nupp)"
 msgid "Subservices"
 msgstr "Alamkanalid"
 
-msgid "Subtitle button"
+msgid "Subtitle"
 msgstr "Subtiitrid"
 
 msgid "Subtitle Quickmenu"
@@ -16428,7 +16399,7 @@ msgstr "Subtiitrite keelevalik 3"
 msgid "Subtitle language selection 4"
 msgstr "Subtiitrite keelevalik 4"
 
-msgid "Subtitle button hold"
+msgid "Subtitle long"
 msgstr "Subtiitrid - pikk"
 
 msgid "Subtitle position"
@@ -16683,7 +16654,7 @@ msgstr "TS fail on liiga suur ISO9660/1 jaoks!"
 msgid "TSID"
 msgstr ""
 
-msgid "TV button"
+msgid "TV"
 msgstr ""
 
 msgid "TV button mode"
@@ -16727,9 +16698,6 @@ msgid "Technik"
 msgstr ""
 
 msgid "Teletext"
-msgstr "Teletekst"
-
-msgid "Text button"
 msgstr "Teletekst"
 
 msgid "Teletext CleanAlgo (resolution reset algorithm)"
@@ -17667,9 +17635,6 @@ msgstr ""
 msgid "Time"
 msgstr "Aeg"
 
-msgid "Time button"
-msgstr "Aeg"
-
 msgid "Time Update in Minutes"
 msgstr "Kellaaja uuendamine (min)"
 
@@ -17713,7 +17678,7 @@ msgstr "Ajahüppe korduse vahemik edasi/tagasikerimisel"
 msgid "Time jump: Use normal fast forward for speeds"
 msgstr "Ajahüpe: Kasuta tavakerimist kiirustel"
 
-msgid "Time button hold"
+msgid "Time long"
 msgstr "Time - pikk"
 
 # PowerTimerList.py
@@ -18018,7 +17983,7 @@ msgstr "Tõlge"
 msgid "Transmission mode"
 msgstr "Edastusviis"
 
-msgid "transparent"
+msgid "Transparent"
 msgstr "Läbipaistev"
 
 msgid "Transponder"
@@ -18428,7 +18393,7 @@ msgstr ""
 msgid "Unzipping Image"
 msgstr "Püsivara lahtipakkimine"
 
-msgid "▲ Up button"
+msgid "Up"
 msgstr "Üles"
 
 msgid "Up/Down button mode"
@@ -18813,10 +18778,10 @@ msgstr "VLAN ühendus"
 msgid "VMGM (intro trailer)"
 msgstr ""
 
-msgid "VoD button"
+msgid "VOD"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD long"
 msgstr "VOD - pikk"
 
 msgid "VPN"
@@ -19124,10 +19089,10 @@ msgstr "Helitaseme kohandamine"
 msgid "Volume Config"
 msgstr "Helitugevuse seadistamine"
 
-msgid "Volume - button"
+msgid "Volume down"
 msgstr "Heli maha"
 
-msgid "Volume + button"
+msgid "Volume up"
 msgstr "Heli juurde"
 
 msgid "Vorschau"
@@ -19570,6 +19535,9 @@ msgstr "Millise saate soovid lõplikult talletada?"
 msgid "While available"
 msgstr "Saadavusel"
 
+msgid "White"
+msgstr "Valge"
+
 msgid "Width"
 msgstr "Laius"
 
@@ -19664,11 +19632,11 @@ msgstr "Viga salvestamise käigus. Ketas %s"
 msgid "Write failed!"
 msgstr "Kirjutamine nurjus!"
 
-msgid "www button"
-msgstr "www"
+msgid "Www"
+msgstr ""
 
-msgid "www button hold"
-msgstr "www - pikk"
+msgid "Www long"
+msgstr "Www - pikk"
 
 msgid "XBox 360 support"
 msgstr "XBox 360 tugi"
@@ -19697,13 +19665,16 @@ msgstr ""
 msgid "Year"
 msgstr "Aasta"
 
-msgid "Yellow button"
-msgstr "Kollane nupp"
+msgid "Yellow"
+msgstr "Kollane"
 
 msgid "Yellow DVB subtitles"
 msgstr "Kollased DVB subtiitrid"
 
-msgid "Yellow button hold"
+msgid "Yellow button"
+msgstr "Kollane nupp"
+
+msgid "Yellow long"
 msgstr "Kollane - pikk"
 
 msgid "Yemen"
@@ -20142,10 +20113,10 @@ msgstr ""
 msgid "ZAP"
 msgstr "Kanalivahetus"
 
-msgid "Zoom button"
+msgid "ZOOM"
 msgstr ""
 
-msgid "Zoom button hold"
+msgid "ZOOM long"
 msgstr "ZOOM - pikk"
 
 #, fuzzy
@@ -20296,7 +20267,7 @@ msgstr "algamas"
 msgid "activate network adapter configuration"
 msgstr "aktiveeri võrgukaardi seaded"
 
-msgid "Activate PiP button"
+msgid "activatePiP"
 msgstr "PiP käivitamine"
 
 msgid "add Current"
@@ -22140,7 +22111,6 @@ msgstr "Kanalivahetus"
 #~ msgid "\"\"This plugin creates a USB stick which can be used to update the firmware of your %s %s without the need for a network or WLAN connection.First, a USB stick needs to be prepared so that it becomes bootable.In the next step, an NFI image file can be downloaded from the update server and saved on the USB stick.If you already have a prepared bootable USB stick, please insert it now. Otherwise plug in a USB stick with a minimum size of 64 MB!\"\""
 #~ msgstr "\"\"See plugin valmistab ette USB pulga, mida saab kasutada %s %s püsivara uuendamiseks ilma võrgu- või WLAN ühenduseta. Esmalt tuleb USB pulk teha alglaetavaks. Järgmiseks hangitakse uuenduste serverist NFI püsivara fail ja salvestatakse see USB pulgale. Kui alglaetav USB pulga juba olemas, siis ühenda nüüd see. Vastasel korral ühenda min. 64 MB USB pulk!\"\""
 
-# /SoftwareManager/Flash_online.py:624
 #~ msgid "%d of %d kBytes"
 #~ msgstr "%d - %d kbaidist"
 
@@ -22397,7 +22367,6 @@ msgstr "Kanalivahetus"
 #~ msgid "Disable all VFD Symbols"
 #~ msgstr "Keela kõik VFD ikoonid"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid ""
 #~ "Do you really want to delete\n"
 #~ "%s ?"
@@ -22479,7 +22448,6 @@ msgstr "Kanalivahetus"
 #~ msgid "File not found - rename failed!"
 #~ msgstr "Faili ei leitud - ümbernimetamine nurjus!"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid "Flash On the fly (select a image)"
 #~ msgstr "Paigalda süsteemitõmmis (tee valik)"
 
@@ -22624,7 +22592,6 @@ msgstr "Kanalivahetus"
 #~ msgid "Load/Save"
 #~ msgstr "Laadi/talleta"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid "Local = Flash a image from local path /hdd/images"
 #~ msgstr "Kohalik = Paigalda tõmmis kõvakettalt (vaikimisi /hdd/images)"
 
@@ -22791,7 +22758,6 @@ msgstr "Kanalivahetus"
 #~ "Kõvakettal pole piisavalt vaba ruumi!\n"
 #~ "Vajalik on vähemalt 300Mb vaba kettaruumi.\n"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid ""
 #~ "Not enough free space on /hdd !!\n"
 #~ "You need at least 300Mb free space.\n"
@@ -22809,7 +22775,6 @@ msgstr "Kanalivahetus"
 #~ msgid "Online"
 #~ msgstr "Veeb"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid "Online = Download a image and flash it"
 #~ msgstr "Veeb = Laadi alla ja paigalda püsivara"
 
@@ -22862,7 +22827,6 @@ msgstr "Kanalivahetus"
 #~ msgid "Please enter the your personal feed URL"
 #~ msgstr "Sisesta oma isikliku hoidla URL"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid "Please select medium"
 #~ msgstr "Vali andmekandja"
 
@@ -23280,7 +23244,6 @@ msgstr "Kanalivahetus"
 #~ msgid "Unable to read image number"
 #~ msgstr "Püsivara numbri lugemine nurjus"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid "Unzipping files, Please wait ..."
 #~ msgstr "Failide lahtipakkimine. Oota..."
 
@@ -23474,7 +23437,6 @@ msgstr "Kanalivahetus"
 #~ msgid "ofgwrite flashing ready.\n"
 #~ msgstr "Süsteemitõmmis on paigaldatud.\n"
 
-# /SoftwareManager/Flash_online.py
 #~ msgid ""
 #~ "ofgwrite not found !!\n"
 #~ "Please make sure you have ofgwrite installed in /usr/bin/ofgwrite.\n"
