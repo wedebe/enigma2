@@ -3032,7 +3032,7 @@ msgid "Ask user (with default as 'yes')"
 msgstr "ask user (default to 'yes')"
 
 msgid "Aspect button"
-msgstr "Aspect press"
+msgstr ""
 
 msgid "Aspect Ratio"
 msgstr ""
@@ -3040,9 +3040,8 @@ msgstr ""
 msgid "Aspect list..."
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Aspect long"
-msgstr "Aspect button hold"
+msgid "Aspect button hold"
+msgstr ""
 
 msgid "Aspect ratio"
 msgstr ""
@@ -3111,9 +3110,8 @@ msgstr "Audio language 3"
 msgid "Audio language selection 4"
 msgstr "Audio language 4"
 
-# msgctxt "button|hold"
-msgid "Audio long"
-msgstr "Audio button hold"
+msgid "Audio button hold"
+msgstr ""
 
 msgid "Audio options..."
 msgstr ""
@@ -3595,7 +3593,6 @@ msgstr ""
 msgid "Bitrate:"
 msgstr ""
 
-# colour
 msgid "Black"
 msgstr ""
 
@@ -3617,16 +3614,11 @@ msgstr ""
 msgid "Block noise reduction"
 msgstr ""
 
-# colour
-msgid "Blue"
-msgstr "Blue button"
-
 msgid "Blue button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Blue long"
-msgstr "Blue button hold"
+msgid "Blue button hold"
+msgstr ""
 
 msgid "BlueSwitch: Blue-Short/Blue-Long"
 msgstr "Switch Blue button press/hold actions"
@@ -5152,12 +5144,11 @@ msgstr ""
 msgid "Content does not fit on DVD!"
 msgstr ""
 
-msgid "Context"
-msgstr "Context press"
+msgid "Context button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Context long"
-msgstr "Context button hold"
+msgid "Context button hold"
+msgstr ""
 
 msgid "Continue"
 msgstr ""
@@ -6165,7 +6156,7 @@ msgid "Direct playback of linked titles without menu"
 msgstr ""
 
 msgid "Directory"
-msgstr "Directory button"
+msgstr ""
 
 msgid "Directory button"
 msgstr ""
@@ -6177,9 +6168,8 @@ msgstr "Folder %s does not exist."
 msgid "Directory browser"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Directory long"
-msgstr "Directory button hold"
+msgid "Directory button hold"
+msgstr ""
 
 msgid "Disable"
 msgstr ""
@@ -6644,12 +6634,11 @@ msgstr "ECM Time"
 msgid "EDID decode"
 msgstr ""
 
-msgid "EJECTCD"
-msgstr "EJECTCD button"
+msgid "Eject button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "EJECTCD long"
-msgstr "EJECTCD button hold"
+msgid "Eject button hold"
+msgstr ""
 
 msgid "EPG"
 msgstr ""
@@ -7002,12 +6991,11 @@ msgstr ""
 msgid "Encryption:"
 msgstr ""
 
-msgid "End"
-msgstr "End button"
+msgid "End button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "End long"
-msgstr "END button hold"
+msgid "End button hold"
+msgstr ""
 
 msgid "End time"
 msgstr ""
@@ -7092,12 +7080,11 @@ msgstr ""
 msgid "Entitlements"
 msgstr ""
 
-msgid "Epg/Guide"
-msgstr "EPG/Guide press"
+msgid "EPG/Guide button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Epg/Guide long"
-msgstr "EPG/Guide button hold"
+msgid "EPG/Guide button hold"
+msgstr ""
 
 msgid "Epos"
 msgstr ""
@@ -7492,36 +7479,32 @@ msgstr "Extreme sports"
 msgid "Extrude from left"
 msgstr ""
 
-msgid "F1"
-msgstr "F1 press"
+msgid "F1 button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "F1 long"
-msgstr "F1 button hold"
+msgid "F1 button hold"
+msgstr ""
 
 msgid "F1/F3/F4/F4-TURBO/TRIPLEX"
 msgstr ""
 
-msgid "F2"
-msgstr "F2 button"
+msgid "F2 button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "F2 long"
-msgstr "F2 button hold"
+msgid "F2 button hold"
+msgstr ""
 
-msgid "F3"
-msgstr "F3 button"
+msgid "F3 button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "F3 long"
-msgstr "F3 button hold"
+msgid "F3 button hold"
+msgstr ""
 
-msgid "F4"
-msgstr "F4 button"
+msgid "F4 button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "F4 long"
-msgstr "F4 button hold"
+msgid "F4 button hold"
+msgstr ""
 
 msgid "FCC 1953"
 msgstr ""
@@ -7610,15 +7593,14 @@ msgstr ""
 msgid "Fast forward speeds"
 msgstr ""
 
-msgid "Fastforward"
-msgstr "▶︎▶︎ Fast Forward"
+msgid "▶︎▶︎ Fast Forward button"
+msgstr ""
 
-msgid "Favorites"
-msgstr "Favorites button"
+msgid "Favourites button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Favorites long"
-msgstr "Favorites button hold"
+msgid "Favourites button hold"
+msgstr ""
 
 msgid "Favourites"
 msgstr "Favorites"
@@ -7698,9 +7680,8 @@ msgstr ""
 msgid "File checksums/hashes"
 msgstr "Checksum/hash method"
 
-# msgctxt "button|hold"
-msgid "File long"
-msgstr "FILE button hold"
+msgid "File button hold"
+msgstr ""
 
 #, python-format
 msgid "File not found: %s"
@@ -8274,17 +8255,11 @@ msgstr ""
 msgid "Greek"
 msgstr "Ελληνικά (Greek)"
 
-# colour
-msgid "Green"
-msgstr "Green button"
-
-# colour
 msgid "Green button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Green long"
-msgstr "Green button hold"
+msgid "Green button hold"
+msgstr ""
 
 # TRANSLATORS: regional option label
 msgid "Greenland"
@@ -8294,7 +8269,6 @@ msgstr ""
 msgid "Grenada"
 msgstr ""
 
-# colour
 msgid "Grey"
 msgstr ""
 
@@ -8478,11 +8452,13 @@ msgid "Heimwerker"
 msgstr "DIY"
 
 msgid "Help"
-msgstr "Help button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Help long"
-msgstr "Help button hold"
+msgid "Help button"
+msgstr ""
+
+msgid "Help button hold"
+msgstr ""
 
 msgid "Helps setting up your signal"
 msgstr ""
@@ -8564,11 +8540,10 @@ msgstr ""
 msgid "History buttons mode"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "History long"
-msgstr "History button hold"
+msgid "History button hold"
+msgstr ""
 
-msgid "History next"
+msgid "History Next button"
 msgstr ""
 
 msgid "History zap..."
@@ -8593,18 +8568,19 @@ msgid "Holy See"
 msgstr ""
 
 msgid "Home"
-msgstr "Home button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Home long"
-msgstr "Home button hold"
+msgid "Home button"
+msgstr ""
 
-msgid "Homepage"
-msgstr "Homepage press"
+msgid "Home button hold"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Homepage long"
-msgstr "Homepage button hold"
+msgid "Homepage button"
+msgstr ""
+
+msgid "Homepage button hold"
+msgstr ""
 
 # TRANSLATORS: regional option label
 msgid "Honduras"
@@ -9071,17 +9047,15 @@ msgstr "Bahasa Indonesia (Indonesian)"
 msgid "Info"
 msgstr ""
 
-msgid "Info (EPG)"
-msgstr "Info/EPG button"
+msgid "Info/EPG button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Info (EPG) Long"
-msgstr "Info/EPG button hold"
+msgid "Info/EPG button hold"
+msgstr ""
 
 msgid "Info Panel"
 msgstr ""
 
-# msgctxt "button|hold"
 msgid "Info button (long)"
 msgstr "Info button hold"
 
@@ -9633,9 +9607,8 @@ msgstr "Network adapter"
 msgid "LAN connection"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "LAN long"
-msgstr "LAN button hold"
+msgid "LAN button hold"
+msgstr ""
 
 msgid "LCD Skin Setup"
 msgstr "Front Panel Display Skin"
@@ -9767,9 +9740,8 @@ msgstr "◀︎ Left"
 msgid "Left from servicename"
 msgstr "left of service name"
 
-# msgctxt "button|hold"
-msgid "Left long"
-msgstr "◀︎ Left button hold"
+msgid "◀︎ Left button hold"
+msgstr ""
 
 # TRANSLATORS: EPG/IceTV genre subcategory
 msgid "Leichtathletik"
@@ -9875,12 +9847,11 @@ msgid_plural "List version %d, found %d channels"
 msgstr[0] ""
 msgstr[1] ""
 
-msgid "List/Fav"
-msgstr "LIST/FAV button"
+msgid "List/FAV button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "List/Fav long"
-msgstr "LIST/FAV button hold"
+msgid "List/FAV button hold"
+msgstr ""
 
 msgid "Listen to the radio..."
 msgstr ""
@@ -9979,18 +9950,15 @@ msgstr "Logs older than the configured number of days will be deleted."
 msgid "Logs settings"
 msgstr "Logs Settings"
 
-# msgctxt "button|hold"
 msgid "Long << / >>"
 msgstr "◀︎◀︎ REW / FWD ▶︎▶︎ hold"
 
-# msgctxt "button|hold"
 msgid "Long Left/Right"
 msgstr "◀︎ Left / Right ▶︎ hold"
 
 msgid "Long filenames"
 msgstr ""
 
-# msgctxt "button|hold"
 msgid "Long key press"
 msgstr "Button hold"
 
@@ -10054,12 +10022,11 @@ msgstr ""
 msgid "MORE"
 msgstr ""
 
-msgid "MOUSE"
+msgid "Mouse button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "MOUSE long"
-msgstr "MOUSE button hold"
+msgid "Mouse button hold"
+msgstr ""
 
 # TRANSLATORS: regional option label
 msgid "Macao"
@@ -10174,12 +10141,11 @@ msgstr "Add # minutes to start of recording time"
 msgid "Mark service as dedicated 3D service"
 msgstr "Mark as a dedicated 3D channel"
 
-msgid "Mark/Portal/Playlist"
+msgid "Mark/Portal/Playlist button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Mark/Portal/Playlist long"
-msgstr "Mark/Portal/Playlist button hold"
+msgid "Mark/Portal/Playlist button hold"
+msgstr ""
 
 # TRANSLATORS: regional option label
 msgid "Marshall Islands"
@@ -10249,9 +10215,8 @@ msgstr ""
 msgid "Media Portal"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Media long"
-msgstr "Media button hold"
+msgid "Media button hold"
+msgstr ""
 
 msgid "Media playback Remaining/Elapsed as"
 msgstr "Media playback remaining/elapsed as"
@@ -11032,12 +10997,11 @@ msgstr "next page"
 msgid "Next quad PiP channel"
 msgstr ""
 
-msgid "Nextsong"
-msgstr "▶︎▶︎| Next Track button"
+msgid "Next Track ▶︎▶︎│ button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Nextsong long"
-msgstr "▶︎▶︎| Next Track button hold"
+msgid "▶︎▶︎| Next Track button hold"
+msgstr ""
 
 # TRANSLATORS: regional option label
 msgid "Nicaragua"
@@ -11454,20 +11418,19 @@ msgid "OK"
 msgstr ""
 
 # dupe?
-# msgctxt "button|hold"
 msgid "OK button (long)"
-msgstr "OK button hold"
-
-msgid "OK button (short)"
-msgstr "OK button"
-
-msgid "OK button mode"
-msgstr "OK button"
+msgstr ""
 
 # dupe?
-# msgctxt "button|hold"
-msgid "OK long"
-msgstr "OK button hold"
+msgid "OK button (short)"
+msgstr ""
+
+msgid "OK button mode"
+msgstr ""
+
+# dupe?
+msgid "OK button hold"
+msgstr ""
 
 msgid "OK, guide me through the upgrade process"
 msgstr ""
@@ -11617,9 +11580,8 @@ msgstr "Open bouquet list..."
 msgid "Open favourites list"
 msgstr "Open favorites list"
 
-# msgctxt "button|hold"
-msgid "Open long"
-msgstr "OPEN button hold"
+msgid "Open button hold"
+msgstr ""
 
 msgid "Open satellites list"
 msgstr ""
@@ -11672,12 +11634,11 @@ msgstr "Power LED state during standby."
 msgid "Operating LED status while running"
 msgstr "Power LED state during normal operation."
 
-msgid "Option"
+msgid "Option button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Option long"
-msgstr "Option button hold"
+msgid "Option button hold"
+msgstr ""
 
 msgid "Option to disable picons on the Infobar"
 msgstr "Option to disable picons on the infobar."
@@ -11772,12 +11733,11 @@ msgstr ""
 msgid "PAL"
 msgstr ""
 
-msgid "PC"
-msgstr "PC button"
+msgid "PC button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "PC long"
-msgstr "PC button hold"
+msgid "PC button hold"
+msgstr ""
 
 msgid "PCM"
 msgstr ""
@@ -11800,15 +11760,17 @@ msgstr ""
 msgid "PIN code needed"
 msgstr ""
 
-msgid "PIP"
-msgstr "PiP"
+msgid "PiP"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "PIP long"
-msgstr "PiP button hold"
+msgid "PiP button"
+msgstr ""
 
-msgid "PIP with OSD"
-msgstr "PiP with OSD"
+msgid "PiP button hold"
+msgstr ""
+
+msgid "PiP with OSD"
+msgstr ""
 
 msgid "PLP ID"
 msgstr ""
@@ -11828,12 +11790,11 @@ msgstr ""
 msgid "PRIMETIME"
 msgstr ""
 
-msgid "PVR"
-msgstr "PVR button"
+msgid "PVR button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "PVR long"
-msgstr "PVR button hold"
+msgid "PVR button hold"
+msgstr ""
 
 msgid "Package list"
 msgstr ""
@@ -11865,19 +11826,17 @@ msgstr ""
 msgid "Page up list"
 msgstr ""
 
-msgid "PageDown"
-msgstr "Page Down button"
+msgid "Page Down button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "PageDown long"
-msgstr "Page Down button hold"
+msgid "Page Down button hold"
+msgstr ""
 
-msgid "PageUp"
-msgstr "Page Up button"
+msgid "Page Up button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "PageUp long"
-msgstr "Page Up button hold"
+msgid "Page Up button hold"
+msgstr ""
 
 # TRANSLATORS: regional option label
 msgid "Pakistan"
@@ -12158,15 +12117,14 @@ msgstr ""
 msgid "Play/view/edit/install/extract/run file or enter directory"
 msgstr ""
 
-msgid "Playlist"
+msgid "Playlist button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Playlist long"
-msgstr "Playlist button hold"
+msgid "Playlist button hold"
+msgstr ""
 
-msgid "Playpause"
-msgstr "▶︎|| Play/Pause"
+msgid "▶︎││ Play/Pause button"
+msgstr ""
 
 msgid "Please add titles to the compilation."
 msgstr ""
@@ -12682,9 +12640,8 @@ msgstr ""
 msgid "Power On Display"
 msgstr "Enable front panel display"
 
-# msgctxt "button|hold"
-msgid "Power long"
-msgstr "Power button hold"
+msgid "Power button hold"
+msgstr ""
 
 msgid "Power management. Consult your receiver's manual for more information."
 msgstr "Power management. Refer to your receiver's documentation for more information."
@@ -12859,7 +12816,6 @@ msgstr "previous page"
 msgid "│◀︎◀︎ Previous Track button"
 msgstr "|◀︎◀︎ Previous Track"
 
-# msgctxt "button|hold"
 msgid "│◀︎◀︎ Previous Track button hold"
 msgstr "|◀︎◀︎ Previous Track button hold"
 
@@ -12921,9 +12877,8 @@ msgid ""
 "The package containing this program isn't known."
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Program long"
-msgstr "Program button hold"
+msgid "Program button hold"
+msgstr ""
 
 msgid "Programmlisten History"
 msgstr ""
@@ -13015,12 +12970,11 @@ msgstr ""
 msgid "Protocol"
 msgstr ""
 
-msgid "Prov"
+msgid "Prov button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Prov long"
-msgstr "Prov button hold"
+msgid "Prov button hold"
+msgstr ""
 
 msgid "Provider"
 msgstr ""
@@ -13133,15 +13087,14 @@ msgstr ""
 msgid "RGB"
 msgstr ""
 
-msgid "Radio"
-msgstr "Radio button"
+msgid "Radio button"
+msgstr ""
 
 msgid "Radio Channel Selection"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Radio long"
-msgstr "Radio button hold"
+msgid "Radio button hold"
+msgstr ""
 
 # TRANSLATORS: EPG/IceTV genre subcategory
 msgid "Radsport"
@@ -13249,12 +13202,11 @@ msgstr ""
 msgid "Rebuild LCN bouquet now?"
 msgstr ""
 
-msgid "Rec"
-msgstr "● REC"
+msgid "● REC button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Rec long"
-msgstr "● REC button hold"
+msgid "● REC button hold"
+msgstr ""
 
 msgid "Reception"
 msgstr ""
@@ -13365,7 +13317,6 @@ msgstr "Record"
 msgid "Recovery Mode"
 msgstr ""
 
-# colour
 msgid "Red"
 msgstr "Red button"
 
@@ -13378,9 +13329,8 @@ msgstr ""
 msgid "Red colored"
 msgstr "red color text"
 
-# msgctxt "button|hold"
-msgid "Red long"
-msgstr "Red button hold"
+msgid "Red button hold"
+msgstr ""
 
 msgid "Reduce the size of the service picons for more line spacing between them."
 msgstr ""
@@ -13819,14 +13769,16 @@ msgid "Rewrap subtitles"
 msgstr ""
 
 msgid "Right"
-msgstr "▶︎ Right"
+msgstr ""
+ 
+msgid "Right ▶︎ button"
+msgstr ""
 
 msgid "Right from servicename"
 msgstr "right of service name"
 
-# msgctxt "button|hold"
-msgid "Right long"
-msgstr "▶︎ Right button hold"
+msgid "Right ▶︎ button hold"
+msgstr ""
 
 msgid "Roll-off"
 msgstr ""
@@ -13926,12 +13878,11 @@ msgstr ""
 msgid "SABnzbd Setup"
 msgstr ""
 
-msgid "SAT"
+msgid "SAT button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "SAT long"
-msgstr "SAT button hold"
+msgid "SAT button hold"
+msgstr ""
 
 msgid "SATA"
 msgstr ""
@@ -14280,12 +14231,11 @@ msgstr "Look up weather location ID"
 msgid "Search west"
 msgstr ""
 
-msgid "Search/WEB"
+msgid "Search/WEB button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Search/WEB long"
-msgstr "Search/WEB button hold"
+msgid "Search/WEB button hold"
+msgstr ""
 
 msgid "Searching"
 msgstr ""
@@ -14409,11 +14359,10 @@ msgid "Select Quad Channels"
 msgstr ""
 
 msgid "Select Red-key action"
-msgstr "Red button"
+msgstr "Red Button action"
 
-# msgctxt "button|hold"
 msgid "Select Red-key action long"
-msgstr "Red button hold"
+msgstr "Red button hold action"
 
 msgid "Select Softcam"
 msgstr ""
@@ -14422,11 +14371,10 @@ msgid "Select Software Update"
 msgstr ""
 
 msgid "Select Yellow Key Action"
-msgstr "Yellow button"
+msgstr "Yellow button action"
 
-# msgctxt "button|hold"
 msgid "Select Yellow Key Action long"
-msgstr "Yellow button hold"
+msgstr "Yellow button hold action"
 
 msgid "Select Your Skin"
 msgstr ""
@@ -16118,9 +16066,8 @@ msgstr ""
 msgid "Sleep delay"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Sleep long"
-msgstr "Sleep button hold"
+msgid "Sleep button hold"
+msgstr ""
 
 msgid "SleepTimer"
 msgstr "Sleep Timer"
@@ -16771,8 +16718,7 @@ msgstr "Subtitle language 3"
 msgid "Subtitle language selection 4"
 msgstr "Subtitle language 4"
 
-# msgctxt "button|hold"
-msgid "Subtitle long"
+msgid "Subtitle button hold"
 msgstr "SUB/Subtitle button hold"
 
 msgid "Subtitle position"
@@ -18050,9 +17996,8 @@ msgstr ""
 msgid "Time jump: Use normal fast forward for speeds"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Time long"
-msgstr "Time button hold"
+msgid "Time button hold"
+msgstr ""
 
 msgid "Time range:"
 msgstr ""
@@ -19188,11 +19133,10 @@ msgstr ""
 msgid "VMGM (intro trailer)"
 msgstr ""
 
-msgid "VOD"
+msgid "VoD button"
 msgstr "VOD/IPTV button"
 
-# msgctxt "button|hold"
-msgid "VOD long"
+msgid "VoD button hold"
 msgstr "VOD/IPTV button hold"
 
 msgid "VPN"
@@ -19950,7 +19894,6 @@ msgstr "Which event would you like to save permanently?"
 msgid "While available"
 msgstr ""
 
-# colour
 msgid "White"
 msgstr ""
 
@@ -20054,12 +19997,11 @@ msgstr ""
 msgid "Write failed!"
 msgstr ""
 
-msgid "Www"
-msgstr "WWW button"
+msgid "www button"
+msgstr ""
 
-# msgctxt "button|hold"
-msgid "Www long"
-msgstr "WWW button hold"
+msgid "www button hold"
+msgstr ""
 
 msgid "XBox 360 support"
 msgstr ""
@@ -20088,19 +20030,14 @@ msgstr ""
 msgid "Year"
 msgstr ""
 
-# colour
-msgid "Yellow"
-msgstr "Yellow button"
-
 msgid "Yellow DVB subtitles"
 msgstr ""
 
 msgid "Yellow button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "Yellow long"
-msgstr "Yellow button hold"
+msgid "Yellow button hold"
+msgstr ""
 
 # TRANSLATORS: regional option label
 msgid "Yemen"
@@ -20537,12 +20474,11 @@ msgstr ""
 msgid "ZAP"
 msgstr ""
 
-msgid "ZOOM"
+msgid "Zoom button"
 msgstr ""
 
-# msgctxt "button|hold"
-msgid "ZOOM long"
-msgstr "ZOOM button hold"
+msgid "Zoom button hold"
+msgstr ""
 
 msgid "ZPicon"
 msgstr ""
@@ -20863,7 +20799,6 @@ msgstr "because of the filesystem on the device, the backup\n"
 msgid "better"
 msgstr ""
 
-# colour
 msgid "black"
 msgstr ""
 
@@ -20873,7 +20808,6 @@ msgstr ""
 msgid "blacklist"
 msgstr "blocklist"
 
-# colour
 msgid "blue"
 msgstr ""
 
@@ -21366,7 +21300,6 @@ msgstr "go to standby"
 msgid "grab this frame as bitmap"
 msgstr ""
 
-# colour
 msgid "green"
 msgstr ""
 
@@ -21929,7 +21862,6 @@ msgstr ""
 msgid "recording..."
 msgstr ""
 
-# colour
 msgid "red"
 msgstr ""
 
@@ -22478,7 +22410,6 @@ msgstr ""
 msgid "view extensions..."
 msgstr ""
 
-# colour
 msgid "violet"
 msgstr ""
 
@@ -22524,7 +22455,6 @@ msgstr ""
 "\n"
 "A copy has been sent to you."
 
-# colour
 msgid "white"
 msgstr ""
 
@@ -22576,7 +22506,6 @@ msgstr ""
 msgid "working"
 msgstr ""
 
-# colour
 msgid "yellow"
 msgstr ""
 
