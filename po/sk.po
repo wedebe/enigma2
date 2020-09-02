@@ -11294,9 +11294,6 @@ msgstr "PIDy"
 msgid "PIN code needed"
 msgstr "Treba zadať kód PIN"
 
-msgid "PiP"
-msgstr ""
-
 msgid "PiP button"
 msgstr ""
 
@@ -21348,14 +21345,8 @@ msgstr "jednoduché"
 msgid "skin"
 msgstr "súbor vzhľadu"
 
-msgid "Skip Backward button"
-msgstr "skok dozadu"
-
 msgid "skip backward (enter time)"
 msgstr "skok dozadu (zadajte čas)"
-
-msgid "Skip Forward button"
-msgstr "preskočiť dopredu"
 
 msgid "skip forward (enter time)"
 msgstr "skok dopredu (zadajte čas)"

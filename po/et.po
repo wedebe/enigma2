@@ -11483,9 +11483,6 @@ msgstr "PIDid"
 msgid "PIN code needed"
 msgstr "Vajalik on PIN-kood"
 
-msgid "PiP"
-msgstr "PiP"
-
 msgid "PiP button hold"
 msgstr "PiP - pikk"
 
@@ -15847,9 +15844,6 @@ msgstr "Aeglane"
 msgid "Slow button"
 msgstr "Aeglane"
 
-msgid "Slow button"
-msgstr ""
-
 msgid "Slow motion speeds"
 msgstr "Aeglustuskiirused"
 
@@ -19688,9 +19682,6 @@ msgstr ""
 
 msgid "Year"
 msgstr "Aasta"
-
-msgid "Yellow button"
-msgstr "Kollane"
 
 msgid "Yellow DVB subtitles"
 msgstr "Kollased DVB subtiitrid"

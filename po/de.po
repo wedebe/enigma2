@@ -26045,10 +26045,6 @@ msgstr ""
 msgid "Year"
 msgstr "Jahr"
 
-#: ButtonSetup.py:24 MovieSelection.py:253
-msgid "Yellow button"
-msgstr "Gelb"
-
 #: setup.xml
 msgid "Yellow DVB subtitles"
 msgstr "DVB Untertitel in gelb"

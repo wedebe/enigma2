@@ -25955,10 +25955,6 @@ msgstr "YPbPr (Component)"
 msgid "Year"
 msgstr "Jaar"
 
-#: ButtonSetup.py:24 MovieSelection.py:253
-msgid "Yellow button"
-msgstr "Geel"
-
 #: setup.xml
 msgid "Yellow DVB subtitles"
 msgstr "DVB-ondertitels in de kleur geel"

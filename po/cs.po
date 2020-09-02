@@ -27214,9 +27214,6 @@ msgstr "Přepnutý"
 #~ msgid "dont wait"
 #~ msgstr "Nečekat"
 
-#~ msgid "▼ Down button"
-#~ msgstr "Dolu"
-
 #~ msgid "duration:  %s ... "
 #~ msgstr "Trvání:  %s ... "
 
@@ -27246,12 +27243,6 @@ msgstr "Přepnutý"
 
 #~ msgid "encryption"
 #~ msgstr "Šifrování"
-
-#~ msgid "End button"
-#~ msgstr "Konec"
-
-#~ msgid "epg"
-#~ msgstr "EPG"
 
 #~ msgid "exit movielist"
 #~ msgstr "zavřít seznam filmů"

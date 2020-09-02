@@ -11239,9 +11239,6 @@ msgstr ""
 msgid "PIN code needed"
 msgstr "PIN kode nødvendig"
 
-msgid "PiP"
-msgstr ""
-
 msgid "PiP button"
 msgstr ""
 
@@ -12762,9 +12759,6 @@ msgstr "Optagelser"
 
 msgid "Recovery Mode"
 msgstr "Genoprettelsestilstand"
-
-msgid "Red button"
-msgstr "Rød knap"
 
 msgid "Red button"
 msgstr "Rød knap"
@@ -19277,9 +19271,6 @@ msgstr ""
 
 msgid "Year"
 msgstr "År"
-
-msgid "Yellow button"
-msgstr "Gul"
 
 msgid "Yellow DVB subtitles"
 msgstr "Gule DVB undertekster"

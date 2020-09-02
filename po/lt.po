@@ -25755,10 +25755,6 @@ msgstr "YPbPr"
 msgid "Year"
 msgstr "Metai"
 
-#: ButtonSetup.py:24 MovieSelection.py:253
-msgid "Yellow button"
-msgstr "Geltonas"
-
 #: setup.xml
 msgid "Yellow DVB subtitles"
 msgstr "Geltoni DVB subtitrai"
@@ -35135,11 +35131,6 @@ msgstr "perjungimas"
 #~ msgstr "nelaukti"
 
 #, fuzzy
-#~| msgid "Zap down"
-#~ msgid "▼ Down button"
-#~ msgstr "žemyn"
-
-#, fuzzy
 #~| msgid "%s %s advanced remote control (native)"
 #~ msgid "dreambox advanced remote control (native)"
 #~ msgstr "%s %s išplėstinis nuotolinio valdymo pultas (gimtasis)"
@@ -35154,11 +35145,6 @@ msgstr "perjungimas"
 #~| msgid "Encryption"
 #~ msgid "encryption"
 #~ msgstr "Kodavimas"
-
-#, fuzzy
-#~| msgid "Send"
-#~ msgid "End button"
-#~ msgstr "Конец"
 
 # normalised
 #, fuzzy

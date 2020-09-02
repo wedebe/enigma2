@@ -26301,10 +26301,6 @@ msgstr "色差"
 msgid "Year"
 msgstr "年"
 
-#: ButtonSetup.py:24 MovieSelection.py:253
-msgid "Yellow button"
-msgstr "黄色键"
-
 #: setup.xml
 msgid "Yellow DVB subtitles"
 msgstr "黄色的DVB字幕"

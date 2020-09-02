@@ -11515,9 +11515,6 @@ msgstr ""
 msgid "Philippines"
 msgstr "Fülöp-szigetek"
 
-msgid "PiP"
-msgstr "Kép-a-Képben"
-
 msgid "PiP-Zap"
 msgstr "Kép-a-Képben Ugrás"
 
