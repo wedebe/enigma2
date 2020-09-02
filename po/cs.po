@@ -27214,7 +27214,7 @@ msgstr "Přepnutý"
 #~ msgid "dont wait"
 #~ msgstr "Nečekat"
 
-#~ msgid "down"
+#~ msgid "▼ Down button"
 #~ msgstr "Dolu"
 
 #~ msgid "duration:  %s ... "
@@ -27247,7 +27247,7 @@ msgstr "Přepnutý"
 #~ msgid "encryption"
 #~ msgstr "Šifrování"
 
-#~ msgid "end"
+#~ msgid "End button"
 #~ msgstr "Konec"
 
 #~ msgid "epg"

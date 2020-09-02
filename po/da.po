@@ -3448,7 +3448,7 @@ msgstr "Blå"
 msgid "Blue button"
 msgstr "Blå knap"
 
-msgid "Blue long"
+msgid "Blue button hold"
 msgstr "Blå lang"
 
 msgid "BlueSwitch: Blue-Short/Blue-Long"
@@ -7294,13 +7294,13 @@ msgstr "Hurtig tidsrum"
 msgid "Fast forward speeds"
 msgstr "Hurtig fremspolingshastigheder"
 
-msgid "Fastforward"
+msgid "▶︎▶︎ Fast Forward button"
 msgstr "Hurtig fremspoling"
 
-msgid "Favorites"
+msgid "Favourites button"
 msgstr "Favoritter"
 
-msgid "Favorites long"
+msgid "Favourites button hold"
 msgstr "Favoritter lang"
 
 msgid "Favourites"
@@ -7922,7 +7922,7 @@ msgstr "Grøn"
 msgid "Green button"
 msgstr "Grøn knap"
 
-msgid "Green long"
+msgid "Green button hold"
 msgstr "Grøn lang"
 
 msgid "Greenland"
@@ -8174,16 +8174,16 @@ msgstr "Historisk"
 msgid "History"
 msgstr "Historik"
 
-msgid "History back"
+msgid "History Back button"
 msgstr "Historik baglæns"
 
 msgid "History buttons mode"
 msgstr "Historik knapper tilstand"
 
-msgid "History long"
+msgid "History button hold"
 msgstr "Historik lang"
 
-msgid "History next"
+msgid "History Next button"
 msgstr "Historik næste"
 
 msgid "History zap..."
@@ -12067,7 +12067,7 @@ msgstr "Motor opsætningslog"
 msgid "Positioner setup"
 msgstr "Motor opsætning"
 
-msgid "Power"
+msgid "Power button"
 msgstr "Tænd"
 
 msgid "Power LED State in Deep-Standby"
@@ -12088,7 +12088,7 @@ msgstr "Strøm LED tilstand i Standby."
 msgid "Power On Display"
 msgstr "Tænd skærm"
 
-msgid "Power long"
+msgid "Power button hold"
 msgstr "Tænd lang"
 
 msgid "Power management. Consult your receiver's manual for more information."
@@ -13196,7 +13196,7 @@ msgstr "Baglæns højre filsortering"
 msgid "Revue"
 msgstr ""
 
-msgid "Rewind"
+msgid "◀︎◀︎ Rewind button"
 msgstr "Tilbagespoling"
 
 msgid "Rewind speeds"
@@ -13211,7 +13211,7 @@ msgstr "Højre"
 msgid "Right from servicename"
 msgstr "Til højre for kanalnavn"
 
-msgid "Right long"
+msgid "Right ▶︎ button hold"
 msgstr "Højre lang"
 
 msgid "Roll-off"
@@ -15428,13 +15428,13 @@ msgstr "Grafiske Temaer"
 msgid "Skinselector"
 msgstr "Temavælger"
 
-msgid "Skip back"
+msgid "Skip Backward button"
 msgstr "Hop baglæns"
 
 msgid "Skip empty services"
 msgstr "Hop over tomme kanaler"
 
-msgid "Skip forward"
+msgid "Skip Forward button"
 msgstr "Hop fremad"
 
 msgid "Skip internet connection check (disables automatic package installation)"
@@ -16039,7 +16039,7 @@ msgstr "Underkanalstilstand (grøn kanp)"
 msgid "Subservices"
 msgstr "Underkanaler"
 
-msgid "Subtitle"
+msgid "Subtitle button"
 msgstr "Undertekst"
 
 msgid "Subtitle Quickmenu"
@@ -16075,7 +16075,7 @@ msgstr "Undertekstsprog valg 3"
 msgid "Subtitle language selection 4"
 msgstr "Undertekstsprog valg 4"
 
-msgid "Subtitle long"
+msgid "Subtitle button hold"
 msgstr "Undertekst lang"
 
 msgid "Subtitle position"
@@ -19278,7 +19278,7 @@ msgstr ""
 msgid "Year"
 msgstr "År"
 
-msgid "Yellow"
+msgid "Yellow button"
 msgstr "Gul"
 
 msgid "Yellow DVB subtitles"
@@ -19287,7 +19287,7 @@ msgstr "Gule DVB undertekster"
 msgid "Yellow button"
 msgstr "Gul knap"
 
-msgid "Yellow long"
+msgid "Yellow button hold"
 msgstr "Gul lang"
 
 msgid "Yemen"

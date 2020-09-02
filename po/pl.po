@@ -26416,13 +26416,13 @@ msgstr "przełączanie"
 #~ msgid "dont wait"
 #~ msgstr "nie czekaj"
 
-#~ msgid "down"
+#~ msgid "▼ Down button"
 #~ msgstr "w dół"
 
 #~ msgid "e-Mail address"
 #~ msgstr "adres e-mail"
 
-#~ msgid "end"
+#~ msgid "End button"
 #~ msgstr "koniec"
 
 #~ msgid "evaluatedlist"

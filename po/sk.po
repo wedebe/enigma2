@@ -3501,7 +3501,7 @@ msgstr "Modré"
 msgid "Blue button"
 msgstr "Modré tlačidlo"
 
-msgid "Blue long"
+msgid "Blue button hold"
 msgstr "Modré tlačidlo - dlho"
 
 msgid "BlueSwitch: Blue-Short/Blue-Long"
@@ -15490,13 +15490,13 @@ msgstr "Súbory vzhľadu"
 msgid "Skinselector"
 msgstr "Volič vzhľadu"
 
-msgid "Skip back"
+msgid "Skip Backward button"
 msgstr "Preskočiť dozadu"
 
 msgid "Skip empty services"
 msgstr "Preskočiť prázdne stanice"
 
-msgid "Skip forward"
+msgid "Skip Forward button"
 msgstr "Preskočiť dopredu"
 
 msgid "Skip internet connection check (disables automatic package installation)"

@@ -11581,7 +11581,7 @@ msgid "Open favourites list"
 msgstr "Ouvrir la liste des favoris"
 
 # TODO
-msgid "Open long"
+msgid "Open button hold"
 msgstr "Ouvert long"
 
 msgid "Open satellites list"
@@ -11641,7 +11641,7 @@ msgid "Option button"
 msgstr "Option"
 
 # TODO
-msgid "Option long"
+msgid "Option button hold"
 msgstr "Option long"
 
 msgid "Option to disable picons on the Infobar"
