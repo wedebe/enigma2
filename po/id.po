@@ -9427,9 +9427,8 @@ msgstr ""
 msgid "Kyrgyzstan"
 msgstr ""
 
-#, fuzzy
 msgid "LAN button"
-msgstr "LCN"
+msgstr ""
 
 msgid "LAN adapter"
 msgstr ""
@@ -9437,9 +9436,8 @@ msgstr ""
 msgid "LAN connection"
 msgstr ""
 
-#, fuzzy
 msgid "LAN button hold"
-msgstr "F1/LAN long"
+msgstr ""
 
 msgid "LCD Skin Setup"
 msgstr ""

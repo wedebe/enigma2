@@ -7280,13 +7280,13 @@ msgstr "Szybkie odtwarzanie"
 msgid "Fast forward speeds"
 msgstr "Szybkie przewijanie do przodu"
 
-msgid "Fastforward"
+msgid "▶︎▶︎ Fast Forward button"
 msgstr "Przewijanie do przodu"
 
-msgid "Favorites"
+msgid "Favourites button"
 msgstr "Ulubione"
 
-msgid "Favorites long"
+msgid "Favourites button hold"
 msgstr "Ulubione (długo)"
 
 msgid "Favourites"
