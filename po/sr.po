@@ -8373,7 +8373,7 @@ msgstr ""
 msgid "History button"
 msgstr ""
 
-msgid "History Back button"
+msgid "History back"
 msgstr ""
 
 msgid "History buttons mode"
@@ -8382,7 +8382,7 @@ msgstr ""
 msgid "History button hold"
 msgstr ""
 
-msgid "History Next button"
+msgid "History next"
 msgstr ""
 
 msgid "History zap..."
@@ -18950,10 +18950,10 @@ msgstr ""
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (unutrašnji trejler)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr ""
 
 msgid "VPN"

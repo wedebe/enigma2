@@ -8660,7 +8660,7 @@ msgstr "Historie"
 msgid "History button"
 msgstr "Historie"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "History zpět"
 
 msgid "History buttons mode"
@@ -8670,7 +8670,7 @@ msgstr "Režim tlačítka Historie"
 msgid "History button hold"
 msgstr "Directory - dlouhý stisk"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "History další"
 
 msgid "History zap..."
@@ -19496,11 +19496,11 @@ msgstr "LAN připojení"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (upoutávka)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
 #, fuzzy
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "OK - dlouhý stisk"
 
 msgid "VPN"

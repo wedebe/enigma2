@@ -8174,7 +8174,7 @@ msgstr "Historisk"
 msgid "History"
 msgstr "Historik"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Historik baglæns"
 
 msgid "History buttons mode"
@@ -8183,7 +8183,7 @@ msgstr "Historik knapper tilstand"
 msgid "History button hold"
 msgstr "Historik lang"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Historik næste"
 
 msgid "History zap..."
@@ -18411,10 +18411,10 @@ msgstr "VLAN forbindelse"
 msgid "VMGM (intro trailer)"
 msgstr ""
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD lang"
 
 msgid "VPN"

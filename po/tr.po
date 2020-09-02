@@ -8283,7 +8283,7 @@ msgstr "Tarihçe"
 msgid "History button"
 msgstr "Tarihçe"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Geçmiş geri"
 
 msgid "History buttons mode"
@@ -8292,7 +8292,7 @@ msgstr "Geçmiş tuşları konumu"
 msgid "History button hold"
 msgstr "Tarihçe uzun"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Geçmiş ileri"
 
 msgid "History zap..."
@@ -18637,10 +18637,10 @@ msgstr "VLAN bağlantısı"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (tanıtım filmi)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD uzun"
 
 msgid "VPN"

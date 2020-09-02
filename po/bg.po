@@ -8541,7 +8541,7 @@ msgstr ""
 msgid "History button"
 msgstr ""
 
-msgid "History Back button"
+msgid "History back"
 msgstr "История назад"
 
 msgid "History buttons mode"
@@ -8551,7 +8551,7 @@ msgstr "Режим на история бутони"
 msgid "History button hold"
 msgstr "Дълга директория"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Следваща история"
 
 msgid "History zap..."
@@ -19143,11 +19143,11 @@ msgid "VMGM (intro trailer)"
 msgstr "VMGM (интро трейлър)"
 
 #, fuzzy
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr "OSD"
 
 #, fuzzy
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "OK дълго"
 
 #, fuzzy

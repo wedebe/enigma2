@@ -8332,7 +8332,7 @@ msgstr "Ajalugu"
 msgid "History"
 msgstr "Ajalugu"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Kanaliajaloos tagasi"
 
 msgid "History buttons mode"
@@ -8341,7 +8341,7 @@ msgstr "Ajaloonuppude vajutus"
 msgid "History button hold"
 msgstr "History - pikk"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Kanaliajaloos edasi"
 
 msgid "History zap..."
@@ -18799,10 +18799,10 @@ msgstr "VLAN ühendus"
 msgid "VMGM (intro trailer)"
 msgstr ""
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD - pikk"
 
 msgid "VPN"

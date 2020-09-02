@@ -8546,7 +8546,7 @@ msgstr "Kanavanvaihtohistoria taakse"
 msgid "History button"
 msgstr ""
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Kanavanvaihtohistoria taakse"
 
 msgid "History buttons mode"
@@ -8556,7 +8556,7 @@ msgstr "Historianäppäimien toiminto"
 msgid "History button hold"
 msgstr "Kanavanvaihtohistoria eteen"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Kanavanvaihtohistoria eteen"
 
 msgid "History zap..."
@@ -19102,11 +19102,11 @@ msgid "VMGM (intro trailer)"
 msgstr ""
 
 #, fuzzy
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr "Kuvaruutunäyttö"
 
 #, fuzzy
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "OK (pitkä)"
 
 #, fuzzy

@@ -10921,7 +10921,7 @@ msgid "History"
 msgstr "Istorija"
 
 #: ButtonSetup.py:193
-msgid "History Back button"
+msgid "History back"
 msgstr "Istorija atgal"
 
 #: setup.xml
@@ -10933,7 +10933,7 @@ msgid "History button hold"
 msgstr "Istorija (ilgai spausti)"
 
 #: ButtonSetup.py:194
-msgid "History Next button"
+msgid "History next"
 msgstr "Istorija pirmyn"
 
 #: ChannelSelection.py:2995 skin_default.xml
@@ -24631,11 +24631,11 @@ msgid "VMGM (intro trailer)"
 msgstr "VMGM (anonsas)"
 
 #: ButtonSetup.py:144
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr "VOD parametrai"
 
 #: ButtonSetup.py:145
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD (ilgai spausti)"
 
 #: ButtonSetup.py:243

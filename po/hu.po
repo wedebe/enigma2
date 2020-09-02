@@ -8204,7 +8204,7 @@ msgstr "Előzmények"
 msgid "History button"
 msgstr "Előzmények"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Előzmények előző"
 
 msgid "History buttons mode"
@@ -8213,7 +8213,7 @@ msgstr "Előzmények gomb mód"
 msgid "History button hold"
 msgstr "Előzmények hosszan"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Előzmények következő"
 
 msgid "History zap..."
@@ -18459,10 +18459,10 @@ msgstr "VLAN kapcsolat"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (Intro trailer)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD hosszan"
 
 msgid "VPN"

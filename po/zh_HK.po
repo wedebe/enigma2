@@ -8691,7 +8691,7 @@ msgid "History button"
 msgstr "歷史"
 
 #, fuzzy
-msgid "History Back button"
+msgid "History back"
 msgstr "歷史"
 
 msgid "History buttons mode"
@@ -8702,7 +8702,7 @@ msgid "History button hold"
 msgstr "歷史"
 
 #, fuzzy
-msgid "History Next button"
+msgid "History next"
 msgstr "歷史"
 
 #, fuzzy
@@ -19775,10 +19775,10 @@ msgid "VMGM (intro trailer)"
 msgstr ""
 
 #, fuzzy
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr "OSD"
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr ""
 
 msgid "VPN"

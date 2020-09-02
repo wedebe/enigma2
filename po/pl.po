@@ -8161,7 +8161,7 @@ msgstr "Historia"
 msgid "History button"
 msgstr "Historia"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "'w Lewo/w Prawo' wstecz"
 
 msgid "History buttons mode"
@@ -8170,7 +8170,7 @@ msgstr "Akcja dla przycisku 'w Lewo/w Prawo'"
 msgid "History button hold"
 msgstr "'w Lewo/w Prawo' długo"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "'w Lewo/w Prawo' dalej"
 
 msgid "History zap..."
@@ -18388,10 +18388,10 @@ msgstr "Połączenie VLAN"
 msgid "VMGM (intro trailer)"
 msgstr ""
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD (długo)"
 
 msgid "VPN"

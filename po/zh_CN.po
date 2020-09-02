@@ -11218,8 +11218,11 @@ msgid "History"
 msgstr "历史返回"
 
 #: ButtonSetup.py:193
-msgid "History Back button"
+msgid "History back"
 msgstr "历史返回"
+
+msgid "History button"
+msgstr ""
 
 #: setup.xml
 msgid "History buttons mode"
@@ -11231,7 +11234,7 @@ msgid "History button hold"
 msgstr "目录键长按"
 
 #: ButtonSetup.py:194
-msgid "History Next button"
+msgid "History next"
 msgstr "接下来的历史"
 
 #: ChannelSelection.py:2995 skin_default.xml
@@ -25156,11 +25159,11 @@ msgid "VMGM (intro trailer)"
 msgstr "VMGM （介绍预告）"
 
 #: ButtonSetup.py:144
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr "视频点播(VOD)"
 
 #: ButtonSetup.py:145
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "视频点播 长按"
 
 #: ButtonSetup.py:243

@@ -8220,7 +8220,7 @@ msgstr "Історiя"
 msgid "History button"
 msgstr "Історiя"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Назад в історії"
 
 msgid "History buttons mode"
@@ -8229,7 +8229,7 @@ msgstr "Режим кнопок <>"
 msgid "History button hold"
 msgstr "Історія довге натискання"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Вперед в історії"
 
 # normalised
@@ -18479,10 +18479,10 @@ msgstr "VLAN з'єднання"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (вступний трейлер)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD довге натискання"
 
 msgid "VPN"

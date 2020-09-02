@@ -8215,7 +8215,7 @@ msgstr "História"
 msgid "History button"
 msgstr "História"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "História - dozadu"
 
 msgid "History buttons mode"
@@ -8224,7 +8224,7 @@ msgstr "Režim tlačidla História"
 msgid "History button hold"
 msgstr "História - dlho"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "História - dopredu"
 
 msgid "History zap..."
@@ -18478,10 +18478,10 @@ msgstr "Pripojenie VLAN"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (intro upútavka)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD - dlho"
 
 msgid "VPN"

@@ -8198,7 +8198,7 @@ msgstr "Ιστορικό"
 msgid "History button"
 msgstr "Ιστορικό"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Ιστορικό πίσω"
 
 msgid "History buttons mode"
@@ -8207,7 +8207,7 @@ msgstr "Λειτουργία πλήκτρων ιστορικού"
 msgid "History button hold"
 msgstr "Ιστορικό παρατεταμένο"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Ιστορικό επόμενο"
 
 msgid "History zap..."
@@ -18460,10 +18460,10 @@ msgstr "Σύνδεση VLAN"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (εντός τρέιλερ)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD παρατεταμένο"
 
 msgid "VPN"

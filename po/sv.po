@@ -8503,7 +8503,7 @@ msgid "History button"
 msgstr "Historik"
 
 #, fuzzy
-msgid "History Back button"
+msgid "History back"
 msgstr "Zaphistorik..."
 
 msgid "History buttons mode"
@@ -8514,7 +8514,7 @@ msgid "History button hold"
 msgstr "Alternativ för tidigare kanaler"
 
 #, fuzzy
-msgid "History Next button"
+msgid "History next"
 msgstr "Alternativ för tidigare kanaler"
 
 msgid "History zap..."
@@ -19131,11 +19131,11 @@ msgid "VMGM (intro trailer)"
 msgstr ""
 
 #, fuzzy
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr "OSD"
 
 #, fuzzy
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "F2 lång"
 
 msgid "VPN"

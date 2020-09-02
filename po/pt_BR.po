@@ -8629,7 +8629,7 @@ msgstr "Pasta"
 msgid "History button"
 msgstr "Pasta"
 
-msgid "History Back button"
+msgid "History back"
 msgstr ""
 
 #, fuzzy
@@ -8640,7 +8640,7 @@ msgstr "Modo de sintonia"
 msgid "History button hold"
 msgstr "Modo de sintonia"
 
-msgid "History Next button"
+msgid "History next"
 msgstr ""
 
 msgid "History zap..."
@@ -19426,10 +19426,10 @@ msgstr ""
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (trailer de intro)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr ""
 
 msgid "VPN"

@@ -8284,7 +8284,7 @@ msgstr "Lịch sử"
 msgid "History button"
 msgstr "Lịch sử"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Lịch sử trở lại"
 
 msgid "History buttons mode"
@@ -8293,7 +8293,7 @@ msgstr "Chế độ nút lịch sử"
 msgid "History button hold"
 msgstr "Lịch sử lâu dài"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Lịch sử tiếp theo"
 
 msgid "History zap..."
@@ -18637,10 +18637,10 @@ msgstr "Kết nối Vlan"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (đoạn giới thiệu)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VODdài"
 
 msgid "VPN"

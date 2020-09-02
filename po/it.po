@@ -8304,7 +8304,7 @@ msgstr "Cronologia"
 msgid "History button"
 msgstr "Cronologia"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Cronologia indietro"
 
 msgid "History buttons mode"
@@ -8313,7 +8313,7 @@ msgstr "Modalità tasto cronologia"
 msgid "History button hold"
 msgstr "Cronologia lungo"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Successiva cronologia"
 
 msgid "History zap..."
@@ -18680,10 +18680,10 @@ msgstr "Connessione VLAN"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (trailer introduttivo)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "VOD lungo"
 
 msgid "VPN"

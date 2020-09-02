@@ -8553,7 +8553,7 @@ msgstr "Historique_PU"
 msgid "History button"
 msgstr "Historique_PU"
 
-msgid "History Back button"
+msgid "History back"
 msgstr "Historique précédent"
 
 msgid "History buttons mode"
@@ -8563,7 +8563,7 @@ msgstr "Mode des boutons historique"
 msgid "History button hold"
 msgstr "Répertoire long"
 
-msgid "History Next button"
+msgid "History next"
 msgstr "Historique suivant"
 
 msgid "History zap..."
@@ -19217,11 +19217,11 @@ msgid "VMGM (intro trailer)"
 msgstr "VMGM (bande-annonce d'intro)"
 
 #, fuzzy
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr "OSD"
 
 #, fuzzy
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "OK button hold"
 
 #, fuzzy

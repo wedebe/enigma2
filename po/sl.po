@@ -8443,7 +8443,7 @@ msgstr "Mapa"
 msgid "History button"
 msgstr "Mapa"
 
-msgid "History Back button"
+msgid "History back"
 msgstr ""
 
 #, fuzzy
@@ -8454,7 +8454,7 @@ msgstr "Način tipke TV"
 msgid "History button hold"
 msgstr "Način tipke TV"
 
-msgid "History Next button"
+msgid "History next"
 msgstr ""
 
 msgid "History zap..."
@@ -19049,10 +19049,10 @@ msgstr ""
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (v trailer)"
 
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr ""
 
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr ""
 
 msgid "VPN"

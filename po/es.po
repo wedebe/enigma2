@@ -11401,7 +11401,7 @@ msgid "History"
 msgstr "Historial anterior"
 
 #: ButtonSetup.py:193
-msgid "History Back button"
+msgid "History back"
 msgstr "Historial anterior"
 
 #: setup.xml
@@ -11414,7 +11414,7 @@ msgid "History button hold"
 msgstr "Directorio extenso"
 
 #: ButtonSetup.py:194
-msgid "History Next button"
+msgid "History next"
 msgstr "Historial siguiente"
 
 #: ChannelSelection.py:2995 skin_default.xml
@@ -25677,12 +25677,12 @@ msgstr "VMGM (trailer intro)"
 
 #: ButtonSetup.py:144
 #, fuzzy
-msgid "VoD button"
+msgid "VOD/IPTV button"
 msgstr "OSD"
 
 #: ButtonSetup.py:145
 #, fuzzy
-msgid "VoD button hold"
+msgid "VOD/IPTV button hold"
 msgstr "OK largo"
 
 #: ButtonSetup.py:243
