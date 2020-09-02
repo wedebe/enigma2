@@ -7957,13 +7957,10 @@ msgstr "Grécko"
 msgid "Greek"
 msgstr "Grécky"
 
-msgid "Green"
-msgstr "Zelené"
-
 msgid "Green button"
 msgstr "Zelené tlačidlo"
 
-msgid "Green long"
+msgid "Green button hold"
 msgstr "Zelené tlačidlo - dlho"
 
 msgid "Greenland"
@@ -8215,16 +8212,19 @@ msgstr "Historické"
 msgid "History"
 msgstr "História"
 
-msgid "History back"
+msgid "History button"
+msgstr "História"
+
+msgid "History Back button"
 msgstr "História - dozadu"
 
 msgid "History buttons mode"
 msgstr "Režim tlačidla História"
 
-msgid "History long"
+msgid "History button hold"
 msgstr "História - dlho"
 
-msgid "History next"
+msgid "History Next button"
 msgstr "História - dopredu"
 
 msgid "History zap..."
@@ -12123,7 +12123,7 @@ msgstr "Záznam pre nastavenie pozicionéra"
 msgid "Positioner setup"
 msgstr "Nastavenie motora"
 
-msgid "Power"
+msgid "Power button"
 msgstr "Napájanie"
 
 msgid "Power LED State in Deep-Standby"
@@ -12144,7 +12144,7 @@ msgstr "Stav napájania LED, počas pohotovostného režimu."
 msgid "Power On Display"
 msgstr "Zapnúť displej"
 
-msgid "Power long"
+msgid "Power button hold"
 msgstr "Power - dlho"
 
 msgid "Power management. Consult your receiver's manual for more information."
@@ -12823,9 +12823,6 @@ msgstr "Núdzový režim"
 msgid "Red button"
 msgstr "Červené tlačidlo"
 
-msgid "Red button"
-msgstr "Červené tlačidlo"
-
 msgid "Red button..."
 msgstr "Červené tlačidlo..."
 
@@ -13252,7 +13249,7 @@ msgstr "Opačné zoradenie - súbor vpravo"
 msgid "Revue"
 msgstr ""
 
-msgid "Rewind"
+msgid "◀︎◀︎ Rewind button"
 msgstr "Pretočiť dozadu"
 
 msgid "Rewind speeds"
@@ -13263,11 +13260,14 @@ msgstr "Znovu zalomiť titulky"
 
 msgid "Right"
 msgstr "Doprava"
+ 
+msgid "Right ▶︎ button"
+msgstr "Doprava"
 
 msgid "Right from servicename"
 msgstr "Vpravo za názvom stanice"
 
-msgid "Right long"
+msgid "Right ▶︎ button hold"
 msgstr "Doprava - dlho"
 
 msgid "Roll-off"
@@ -16103,7 +16103,7 @@ msgstr "Režim podradenej stanice/služby (zelené tlačidlo)"
 msgid "Subservices"
 msgstr "Podradené stanice"
 
-msgid "Subtitle"
+msgid "Subtitle button"
 msgstr "Titulky"
 
 msgid "Subtitle Quickmenu"
@@ -16139,7 +16139,7 @@ msgstr "Voľba jazyka titulkov 3"
 msgid "Subtitle language selection 4"
 msgstr "Voľba jazyka titulkov 4"
 
-msgid "Subtitle long"
+msgid "Subtitle button hold"
 msgstr "Titulky - dlho"
 
 msgid "Subtitle position"
@@ -19343,16 +19343,13 @@ msgstr ""
 msgid "Year"
 msgstr "Rok"
 
-msgid "Yellow"
-msgstr "Žlté"
-
 msgid "Yellow DVB subtitles"
 msgstr "Žlté DVB titulky"
 
 msgid "Yellow button"
 msgstr "Žlté tlačidlo"
 
-msgid "Yellow long"
+msgid "Yellow button hold"
 msgstr "Žlté - dlho"
 
 msgid "Yemen"
@@ -20097,9 +20094,6 @@ msgstr "z dôvodu použitého súborového systému záloha\n"
 
 msgid "better"
 msgstr "lepšie"
-
-msgid "black"
-msgstr "čierne"
 
 msgid "black & white"
 msgstr "čiernobiele"
@@ -21354,13 +21348,13 @@ msgstr "jednoduché"
 msgid "skin"
 msgstr "súbor vzhľadu"
 
-msgid "skip backward"
+msgid "Skip Backward button"
 msgstr "skok dozadu"
 
 msgid "skip backward (enter time)"
 msgstr "skok dozadu (zadajte čas)"
 
-msgid "skip forward"
+msgid "Skip Forward button"
 msgstr "preskočiť dopredu"
 
 msgid "skip forward (enter time)"
